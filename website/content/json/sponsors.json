@@ -1,0 +1,19 @@
+{
+  "main": [
+    {
+      "name": "Horizont",
+      "logo": "horizont-logo-2015-_web-e1508226502148.png"
+    }
+  ],
+
+  "others": [
+    {
+      "name": "Daikin",
+      "logo": "Daikin_logo.png"
+    },
+    {
+      "name": "Fronius",
+      "logo": "Fronius Logo.png"
+    }
+  ]
+}
