@@ -1,7 +1,7 @@
 class Dictionary {
-  constructor(dictionary) {
+  constructor(dictionary, defaultLanguage) {
     this._dictionary = dictionary;
-    this._language = "en";
+    this._language = defaultLanguage;
     this.update();
   }
 
