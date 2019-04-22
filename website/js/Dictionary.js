@@ -6,10 +6,14 @@ class Dictionary {
   }
 
   update() {
-    for (let id in this._dictionary)
-      document.getElementById(id).innerHTML = this._dictionary[id][
-        this._language
-      ];
+    for (let id in this._dictionary) {
+      let element = document.getElementById(id);
+      if(element != null){
+        element.innerHTML = this._dictionary[id][
+          this._language
+        ];
+      }
+    }
   }
 
   changeLanguage(to) {
