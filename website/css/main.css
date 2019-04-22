@@ -1,4 +1,30 @@
+section {
+    margin: 10rem 20rem;
+}
 .section__title {
     color: #D90000;
     text-align: center;
+}
+
+.solar__container {
+    display: flex;
+    flex-direction: column;
+}
+.solar__description {
+    display: flex;
+    text-align: justify;
+    margin-bottom: 3rem;
+}
+.solar__description--left .solar__img {
+    margin-left: 5rem;
+}
+.solar__description--right .solar__img {
+    margin-right: 5rem;
+}
+.solar__img {
+    width: 10rem;
+    flex-shrink: 0;
+}
+.solar__img > img {
+    width: 100%;
 }
