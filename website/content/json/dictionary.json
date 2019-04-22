@@ -3,34 +3,50 @@
     "hu": "A koeb projekt diákok kezdeményezéseként 2017 őszén indult mindössze 10 fővel, ami mára 50 főre gyarapodott. Csapatunkban minden szakterület képviselteti magát, és törekszünk arra, hogy a döntésekben is így vegyünk részt. Vannak köztünk építészek, villamosmérnökök,,tájépítészek, környezetmérnökök, építőmérnökök és menedzsmentesek is. Az első magyarországi csapat az Odoo-házzal, a 2012-es madridi Solar Decathlon Európa versenyen indult el a BME színeiben. A ház az előkelő hatodik helyet érte el.",
     "en": "same in english"
   },
-
   "learnMore": {
     "hu": "Tudj meg többet!",
     "en": "Learn more!"
   },
 
-  "section__solar": {
+  "section_solar": {
     "hu": "Solar Decathlon",
     "en": "Solar Decathlon"
   },
-  "section__concepts": {
-    "hu": "Solar Decathlon",
-    "en": "Solar Decathlon"
+  "solar_text1": {
+    "hu": "A Solar Decathlon egy olyan nemzetközi verseny, ahol a jövő épületei és építési technológiái születnek meg.\nEgyetemek mérkőznek meg a Föld különböző tájairól minden évben más és más helyszíneken, ahol a teljes folyamatot felügyelik az első tollvonástól, minden technológiai tervezésen át egészen a házak megépítéséig.",
+    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
   },
-  "section__videos": {
-    "hu": "Solar Decathlon",
-    "en": "Solar Decathlon"
+  "solar_text2": {
+    "hu": "A versenyt eredetileg a U.S. Department of Energy hozta létre, majd 2007-ben a spanyol kormány invitálására Európában is meghonosították. 2010 és 2012-ben Madridban, 2014-ben Versailles-ban rendezték meg, a 2019-es helyszín pedig Szentendre.",
+    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
   },
-  "section__team": {
-    "hu": "Solar Decathlon",
-    "en": "Solar Decathlon"
+  "solar_text3": {
+    "hu": "A verseny alapvető célkitűzése, hogy megfelelő kommunikációval felhívja a figyelmet az energiapazarló életmódunk visszafogásának módjaira. Célja bizonyítani, hogy a világításra, fűtésre és hűtésre vonatkozó igényeinket ki tudjuk elégíteni a jelenleginél eredményesebben és fenntarthatóbban. Egyre növekvő energiaszükségletünket biztosíthatjuk olyan, mindenhol jelenlévő megújuló forrásokból is, mint a napenergia. ",
+    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
   },
-  "section__sponsors": {
-    "hu": "Solar Decathlon",
-    "en": "Solar Decathlon"
+  "solar_text4": {
+    "hu": "Ezeket a technológiákat megfizethető, megbízható építészeti megoldásokkal lehet integrálni, a versenyzők pedig megmutathatják, hogy hogyan. A lakáshelyzet és az építőipar kihívásaira választ adva fogalmazzuk meg a koncepciókat, melyek átültethetők meglévő lakóépületekre, és alkalmazhatók felújítási munkák során. A szakma és a piaci szereplők közös munkájának ösztönzése is cél, ennek csapatunk is remek példája.",
+    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
   },
-  "section__contact": {
-    "hu": "Solar Decathlon",
-    "en": "Solar Decathlon"
+
+  "section_concepts": {
+    "hu": "Koncepciónk",
+    "en": "Concepts"
+  },
+  "section_videos": {
+    "hu": "Videók",
+    "en": "Videos"
+  },
+  "section_team": {
+    "hu": "Csapat",
+    "en": "Team"
+  },
+  "section_sponsors": {
+    "hu": "Támogatóink",
+    "en": "Our sponsors"
+  },
+  "section_contact": {
+    "hu": "Lépj velünk kapcsolatba",
+    "en": "Contact us"
   }
 }
