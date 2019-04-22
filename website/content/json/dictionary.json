@@ -7,5 +7,30 @@
   "learnMore": {
     "hu": "Tudj meg többet!",
     "en": "Learn more!"
+  },
+
+  "section__solar": {
+    "hu": "Solar Decathlon",
+    "en": "Solar Decathlon"
+  },
+  "section__concepts": {
+    "hu": "Solar Decathlon",
+    "en": "Solar Decathlon"
+  },
+  "section__videos": {
+    "hu": "Solar Decathlon",
+    "en": "Solar Decathlon"
+  },
+  "section__team": {
+    "hu": "Solar Decathlon",
+    "en": "Solar Decathlon"
+  },
+  "section__sponsors": {
+    "hu": "Solar Decathlon",
+    "en": "Solar Decathlon"
+  },
+  "section__contact": {
+    "hu": "Solar Decathlon",
+    "en": "Solar Decathlon"
   }
 }
