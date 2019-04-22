@@ -5,26 +5,27 @@ section {
     color: #D90000;
     text-align: center;
 }
-
-.solar__container {
-    display: flex;
-    flex-direction: column;
+.solar__grid {
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    grid-auto-rows: auto;
+    grid-gap: 1rem 2rem;
+    margin-bottom: 2rem;
 }
-.solar__description {
-    display: flex;
-    text-align: justify;
-    margin-bottom: 3rem;
+.solar__grid1 {
+    grid-area: 1 / 1 / 1 / 3;
 }
-.solar__description--left .solar__img {
-    margin-left: 5rem;
+.solar__grid2 {
+    grid-area: 1 / 3 / 3 / 3;
 }
-.solar__description--right .solar__img {
-    margin-right: 5rem;
+.solar__grid3 {
+    grid-area: 2 / 1 / 4 / 1;
 }
-.solar__img {
-    width: 10rem;
-    flex-shrink: 0;
+.solar__grid4 {
+    grid-area: 3 / 2 / 3 / 4;
 }
-.solar__img > img {
+.solar__grid > img {
+    object-fit: cover;
     width: 100%;
+    max-height: 100%;
 }
