@@ -21,7 +21,7 @@ Minden szöveget (a többnyelvűség miatt) a [dictionary.json](website/content/
 "learnMore": {
     "hu": "Tudj meg többet!",
     "en": "Learn more!"
-  }
+}
 ```
 
 > Ennél a példánál a `learnMore` id-vel rendelkező html elem tartalma lesz kicserélve a megfelelő nyelvhez tartozó szöveghez.
