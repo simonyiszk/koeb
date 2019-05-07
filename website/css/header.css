@@ -1,0 +1,18 @@
+header,
+header>ul {
+    display: flex !important;
+    align-items: center;
+    flex-direction: row;
+}
+
+header>ul {
+    width: 80%;
+    justify-content: space-around;
+    flex-basis: 40%;
+    list-style-type: none;
+}
+
+header>ul>a {
+    margin: 0 2em;
+    display: inline-block;
+}

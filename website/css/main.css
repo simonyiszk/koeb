@@ -3,7 +3,7 @@ section {
 }
 
 .section__title {
-    color: #D90000;
+    color: #d90000;
     text-align: center;
 }
 
@@ -67,7 +67,47 @@ section {
 }
 
 #patron {
-    background-image: "content/footer/pattern_005.png";
+    background-image: url("/content/patron/pattern_005.png");
+    background-attachment: fixed;
+    padding: 2rem;
+    min-height: 25rem;
+    margin: 10rem 0rem;
+    width: 100%;
+}
+
+#patron>* {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#patron__header,
+#patron>h3 {
+    background-color: rgba(255, 255, 255, 0.7);
+    background-clip: content-box;
+}
+
+#patron__header__wrap {
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+
+#patron__header {
+    display: inline;
+    font-family: Akkurat-Bold;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    align-items: center;
+}
+
+#patron>#become {
+    max-width: 320px;
+    width: 25vw;
+    min-width: 160px;
+}
+
+#patron>#become>img {
+    width: 100%;
 }
 
 #team_cards {
