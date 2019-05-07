@@ -89,6 +89,7 @@ section {
 #patron__header__wrap {
     margin-top: 1rem;
     margin-bottom: 3rem;
+    text-align: center;
 }
 
 #patron__header {
@@ -97,7 +98,7 @@ section {
     font-style: normal;
     font-weight: bold;
     font-size: 36px;
-    align-items: center;
+    padding: 1ch;
 }
 
 #patron>#become {
