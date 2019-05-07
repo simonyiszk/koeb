@@ -1,0 +1,18 @@
+#sponsors>div {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.logo {
+    display: block;
+    max-width: 20vmin;
+    height: auto;
+    align-self: center;
+    padding: 10px;
+}
+
+.logo>img {
+    width: 100%;
+    height: auto;
+}

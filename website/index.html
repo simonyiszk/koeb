@@ -1,21 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="stylesheet" href="css/normalize.css" />
     <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="css/logos.css" />
+    <link rel="stylesheet" href="css/hero.css" />
+
     <title>koeb</title>
-  </head>
-  <body>
-    <article id="main">
-      <p>Ha az oldalon nem látsz elég szöveget, kövesd az alábbi lépéseket:</p>
-      <ul>
-        <li>
-          Telepíts fel egy
-          <a href="https://www.python.org/downloads/" target="_BLANK"
-            >python3</a
+</head>
+
+<body>
+
+    <section id="hero">
+        <div class="text-box">
+            <h1>koeb □ homeByME</h1>
+            <p id="shortDescription"></p>
+            <button id="learnMore"></button>
+            <div class="bg"></div>
+        </div>
+    </section>
+
+    <!--article id="main">
+        <p>Ha az oldalon nem látsz elég szöveget, kövesd az alábbi lépéseket:</p>
+        <ul>
+            <li>
+                Telepíts fel egy
+                <a href="https://www.python.org/downloads/" target="_BLANK">python3</a
           >
           runtime-ot.
         </li>
@@ -28,76 +42,163 @@
           A böngésző címsorába navigálj erre a címre: `http://localhost:8000`
         </li>
       </ul>
-    </article>
-
-    <section id="hero">
-      <div class="text-box">
-        <h1>koeb □ homeByME</h1>
-        <p id="shortDescription"></p>
-        <button id="learnMore"></button>
-      </div>
-    </section>
+    </article-->
 
     <section id="social_media"></section>
 
     <section id="solar_decathlon">
-      <h1 id="section_solar" class="section__title"></h1>
+        <h1 id="section_solar" class="section__title"></h1>
 
-      <div class="solar__grid">
-        <div id="solar_text1" class="solar__grid1"></div>
-        <img class="solar__grid2" src="content/solar/00 10 contest.jpg" alt="TODO" />
-        <img class="solar__grid3" src="content/solar/00 10 contest.jpg" alt="TODO" />
-        <div id="solar_text2" class="solar__grid4"></div>
-      </div>
-      <div class="solar__grid">
-        <div id="solar_text3" class="solar__grid1"></div>
-        <img class="solar__grid2" src="content/solar/00 10 contest.jpg" alt="TODO" />
-        <img class="solar__grid3" src="content/solar/00 10 contest.jpg" alt="TODO" />
-        <div id="solar_text4" class="solar__grid4"></div>
-      </div>
-      <div class="solar__imagerow">
-        <div class="solar__imagerowcontainer">
-          <img src="content/solar/00 10 contest.jpg" alt="TODO" /> 
+        <div class="solar__grid">
+            <div id="solar_text1" class="solar__grid1"></div>
+            <img class="solar__grid2" src="content/solar/00 10 contest.jpg" alt="TODO" />
+            <img class="solar__grid3" src="content/solar/00 10 contest.jpg" alt="TODO" />
+            <div id="solar_text2" class="solar__grid4"></div>
         </div>
-        <div class="solar__imagerowcontainer">
-          <img src="content/solar/00 10 contest.jpg" alt="TODO" /> 
+        <div class="solar__grid">
+            <div id="solar_text3" class="solar__grid1"></div>
+            <img class="solar__grid2" src="content/solar/00 10 contest.jpg" alt="TODO" />
+            <img class="solar__grid3" src="content/solar/00 10 contest.jpg" alt="TODO" />
+            <div id="solar_text4" class="solar__grid4"></div>
         </div>
-        <div class="solar__imagerowcontainer">
-          <img src="content/solar/00 10 contest.jpg" alt="TODO" /> 
+        <div class="solar__imagerow">
+            <div class="solar__imagerowcontainer">
+                <img src="content/solar/00 10 contest.jpg" alt="TODO" />
+            </div>
+            <div class="solar__imagerowcontainer">
+                <img src="content/solar/00 10 contest.jpg" alt="TODO" />
+            </div>
+            <div class="solar__imagerowcontainer">
+                <img src="content/solar/00 10 contest.jpg" alt="TODO" />
+            </div>
+            <div class="solar__imagerowcontainer">
+                <img src="content/solar/00 10 contest.jpg" alt="TODO" />
+            </div>
         </div>
-        <div class="solar__imagerowcontainer">
-          <img src="content/solar/00 10 contest.jpg" alt="TODO" /> 
-        </div>
-      </div>
     </section>
 
     <section id="concepts">
-      <h1 id="section_concepts" class="section__title"></h1>
+        <h1 id="section_concepts" class="section__title"></h1>
     </section>
 
     <section id="videos">
-      <h1 id="section_videos" class="section__title"></h1>
+        <h1 id="section_videos" class="section__title"></h1>
     </section>
 
     <section id="team">
-      <h1 id="section_team" class="section__title"></h1>
+        <h1 id="section_team" class="section__title"></h1>
+        <div id="team_cards">
+            <div class="cards">
+                <h2 id="cardheader1" class="card_header"></h2>
+                <img scr="" class="teamlogo" />
+                <h4 id="cardtext1" class="card_text"></h4>
+                <img scr="" class="teamface" />
+                <h3 id="teamname1" class="team_name"></h3>
+                <h4 id="teammail1" class="team_mail"></h4>
+            </div>
+            <div class="cards">
+                <h2 id="cardheader2" class="card_header"></h2>
+                <img scr="" class="teamlogo" />
+                <h4 id="cardtext2" class="card_text"></h4>
+                <img scr="" class="teamface" />
+                <h3 id="teamname2" class="team_name"></h3>
+                <h4 id="teammail2" class="team_mail"></h4>
+            </div>
+            <div class="cards">
+                <h2 id="cardheader3" class="card_header"></h2>
+                <img scr="" class="teamlogo" />
+                <h4 id="cardtext3" class="card_text"></h4>
+                <img scr="" class="teamface" />
+                <h3 id="teamname3" class="team_name"></h3>
+                <h4 id="teammail3" class="team_mail"></h4>
+            </div>
+            <div class="cards">
+                <h2 id="cardheader4" class="card_header"></h2>
+                <img scr="" class="teamlogo" />
+                <h4 id="cardtext4" class="card_text"></h4>
+                <img scr="" class="teamface" />
+                <h3 id="teamname4" class="team_name"></h3>
+                <h4 id="teammail4" class="team_mail"></h4>
+            </div>
+            <div class="cards">
+                <h2 id="cardheader5" class="card_header"></h2>
+                <img scr="" class="teamlogo" />
+                <h4 id="cardtext5" class="card_text"></h4>
+                <img scr="" class="teamface" />
+                <h3 id="teamname5" class="team_name"></h3>
+                <h4 id="teammail5" class="team_mail"></h4>
+            </div>
+            <div class="cards">
+                <h2 id="cardheader6" class="card_header"></h2>
+                <img scr="" class="teamlogo" />
+                <h4 id="cardtext6" class="card_text"></h4>
+                <img scr="" class="teamface" />
+                <h3 id="teamname6" class="team_name"></h3>
+                <h4 id="teammail6" class="team_mail"></h4>
+            </div>
+            <div class="cards">
+                <h2 id="cardheader7" class="card_header"></h2>
+                <img scr="" class="teamlogo" />
+                <h4 id="cardtext7" class="card_text"></h4>
+                <img scr="" class="teamface" />
+                <h3 id="teamname7" class="team_name"></h3>
+                <h4 id="teammail7" class="team_mail"></h4>
+            </div>
+            <div class="cards">
+                <h2 id="cardheader8" class="card_header"></h2>
+                <img scr="" class="teamlogo" />
+                <h4 id="cardtext8" class="card_text"></h4>
+                <img scr="" class="teamface" />
+                <h3 id="teamname8" class="team_name"></h3>
+                <h4 id="teammail8" class="team_mail"></h4>
+            </div>
+        </div>
     </section>
 
     <section id="sponsors">
-      <h1 id="section_sponsors" class="section__title"></h1>
-      <!--div id="main"></div>
-      <div id="other"></div-->
+        <h1 id="section_sponsors" class="section__title"></h1>
+        <div id="main"></div>
+        <div id="other"></div>
+    </section>
+
+    <section id="patron">
+        <h2 id="section_patron"></h2>
+        <h3 id="patron_text"></h3>
+        <div id="become"></div>
     </section>
 
     <section id="contact">
-      <h1 id="section_contact" class="section__title"></h1>
+        <h1 id="section_contact" class="section__title"></h1>
+        <div id="contactrow">
+            <div id="facebook" class="social">
+                <a href="https://www.facebook.com/koeb.bme/">
+                    <img src="content/footer/001-facebook.svg" class="footerimg" />
+                    <h3>facebook</h3>
+                </a>
+            </div>
+            <div id="email" class="social">
+                <a href="mailto:valaki@valaki.com">
+                    <img src="content/footer/003-mail.svg" class="footerimg" />
+                    <h3>e@mail.hu</h3>
+                </a>
+            </div>
+            <div id="instagram" class="social">
+                <a href="https://www.instagram.com/koeb.bme/">
+                    <img src="content/footer/002-instagram.svg" class="footerimg" />
+                    <h3>instagram</h3>
+                </a>
+            </div>
+        </div>
     </section>
 
-    <section id="footer"></section>
+    <footer>
+        <div></div>
+    </footer>
 
     <script src="js/Loader.js"></script>
     <script src="js/Dictionary.js"></script>
     <script src="js/SponsorHandler.js"></script>
     <script src="js/main.js"></script>
-  </body>
+</body>
+
 </html>

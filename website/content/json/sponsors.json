@@ -1,19 +1,92 @@
 {
-  "main": [
-    {
-      "name": "Horizont",
-      "logo": "horizont-logo-2015-_web-e1508226502148.png"
-    }
-  ],
+    "main": [{
+        "name": "Horizont",
+        "src": "horizont-logo-2015-_web-e1508226502148.png"
+    }],
 
-  "others": [
-    {
-      "name": "Daikin",
-      "logo": "Daikin_logo.png"
-    },
-    {
-      "name": "Fronius",
-      "logo": "Fronius Logo.png"
-    }
-  ]
+    "others": [{
+            "src": "04_3 \u00c9MI.png",
+            "name": "logo"
+        },
+        {
+            "src": "ben_ngbs.jpg",
+            "name": "logo"
+        },
+        {
+            "src": "bme.png",
+            "name": "logo"
+        },
+        {
+            "src": "Brick data logo_2.png",
+            "name": "logo"
+        },
+        {
+            "src": "Brick data logo_3.png",
+            "name": "logo"
+        },
+        {
+            "src": "Daikin_logo.png",
+            "name": "logo"
+        },
+        {
+            "src": "eef_for_header_web_eef-1.jpg",
+            "name": "logo"
+        },
+        {
+            "src": "emi-logo_20160125a.jpg",
+            "name": "logo"
+        },
+        {
+            "src": "Fronius Logo.png",
+            "name": "logo"
+        },
+        {
+            "src": "Geberit_logo.png",
+            "name": "logo"
+        },
+        {
+            "src": "grundfos-logo.jpg",
+            "name": "logo"
+        },
+        {
+            "src": "horizont-logo-2015-_web-e1508226502148.png",
+            "name": "logo"
+        },
+        {
+            "src": "INSTASOLAR.png",
+            "name": "logo"
+        },
+        {
+            "src": "Lindab-logo_white.png",
+            "name": "logo"
+        },
+        {
+            "src": "logo_basic_red_01.png",
+            "name": "logo"
+        },
+        {
+            "src": "logo_basic_reversed_01.png",
+            "name": "logo"
+        },
+        {
+            "src": "mvm-uj-logo_200x.png",
+            "name": "logo"
+        },
+        {
+            "src": "schako_2017.png",
+            "name": "logo"
+        },
+        {
+            "src": "sd-europe-logo-041417.png",
+            "name": "logo"
+        },
+        {
+            "src": "tl_logo.png",
+            "name": "logo"
+        },
+        {
+            "src": "untitled.png",
+            "name": "logo"
+        }
+    ]
 }

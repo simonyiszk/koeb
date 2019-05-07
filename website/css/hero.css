@@ -1,0 +1,20 @@
+#hero {
+    width: 100vw;
+    height: 100vh;
+    background: pink;
+    /*background-image: url("paper.gif");*/
+    margin: 0;
+    position: relative;
+}
+
+#hero>.text-box {
+    right: 0;
+}
+
+#hero>.text-box>.bg {
+    background-color: red;
+    transform: rotate(30deg);
+    width: 50%;
+    height: 100%;
+    z-index: 100;
+}

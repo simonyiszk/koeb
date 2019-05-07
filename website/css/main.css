@@ -1,10 +1,12 @@
 section {
     margin: 10rem 20rem;
 }
+
 .section__title {
     color: #D90000;
     text-align: center;
 }
+
 .solar__grid {
     display: grid;
     grid-template-columns: 1fr 3fr 1fr;
@@ -12,30 +14,64 @@ section {
     grid-gap: 1rem 2rem;
     margin-bottom: 2rem;
 }
+
 .solar__grid1 {
     grid-area: 1 / 1 / 1 / 3;
 }
+
 .solar__grid2 {
     grid-area: 1 / 3 / 3 / 3;
 }
+
 .solar__grid3 {
     grid-area: 2 / 1 / 4 / 1;
 }
+
 .solar__grid4 {
     grid-area: 3 / 2 / 3 / 4;
 }
-.solar__grid > img {
+
+.solar__grid>img {
     object-fit: cover;
     width: 100%;
     max-height: 100%;
 }
+
 .solar__imagerow {
     display: flex;
 }
+
 .solar__imagerowcontainer {
     flex: 1;
     padding: 1rem;
 }
-.solar__imagerowcontainer > img {
+
+.solar__imagerowcontainer>img {
     width: 100%;
+}
+
+#contactrow {
+    display: flex;
+    justify-content: space-around;
+    padding: 3%;
+}
+
+.footerimg {
+    max-width: 100px;
+    min-width: 100px;
+}
+
+.social {
+    text-align: center;
+    width: 30vw;
+}
+
+#patron {
+    background-image: "content/footer/pattern_005.png";
+}
+
+#team_cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
