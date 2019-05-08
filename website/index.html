@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="css/header.css" />
     <link rel="stylesheet" href="css/team_card.css" />
 
-    <!--Bootstrap 4-->
+    <!--Bootstrap -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
     <title>koeb</title>
 </head>
@@ -29,7 +29,7 @@
         </div>
     </section>
 
-    <header>
+    <header id="navbar">
         <img src="content/logos/nav_logo.png" id="nav-logo" />
         <ul>
             <a href="#">
@@ -54,6 +54,11 @@
                 <li id="nav7"></li>
             </a>
         </ul>
+
+        <div id="flags">
+            <img src="content/flags/hu.svg" alt="hu" />
+            <img src="content/flags/en.svg" alt="en" />
+        </div>
     </header>
 
     <!--article id="main">
@@ -131,19 +136,26 @@
 
             <div class="card container col-sm-6" style="min-width: 18rem;">
                 <div class="row team-card-header align-middle">
-                    <div class="col-sm" style="display:flex;justify-content:center;align-items:center;font-size:1.5em;">Építészet</div>
+                    <div class="col-sm" style="display:flex;justify-content:center;align-items:center;font-size:1.5em;">
+                        Építészet
+                    </div>
                     <img src="http://placekitten.com/100/100" />
                 </div>
 
                 <div class="row team-card-body">
-                    <span class="col">Example lore imsadkaposdjas diojsa defjio fjasei </span>
+                    <span class="col">Example lore imsadkaposdjas diojsa defjio fjasei
+            </span>
                 </div>
 
                 <div class="row team-card-footer">
                     <img class="col-sm-6" src="http://placekitten.com/100/100" />
                     <div class="col-sm-6">
-                        <div style="display:flex;justify-content:center;align-items:center;font-size:1.5em;">Varga Dávid</div>
-                        <div href="" style="display:flex;justify-content:center;align-items:center;font-size:1.5em;">varga.david@koeb.com</div>
+                        <div style="display:flex;justify-content:center;align-items:center;font-size:1.5em;">
+                            Varga Dávid
+                        </div>
+                        <div href="" style="display:flex;justify-content:center;align-items:center;font-size:1.5em;">
+                            varga.david@koeb.com
+                        </div>
                     </div>
                 </div>
             </div>
@@ -209,6 +221,7 @@
     <script src="js/Loader.js"></script>
     <script src="js/Dictionary.js"></script>
     <script src="js/SponsorHandler.js"></script>
+    <script src="js/NavBarHandler.js"></script>
     <script src="js/main.js"></script>
 </body>
 

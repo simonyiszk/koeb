@@ -1,16 +1,20 @@
 const init = async() => {
-    loader = new Loader("/");
-    dict = new Dictionary(
+    const loader = new Loader("");
+    const dict = new Dictionary(
         await loader.getObject("content/json/dictionary.json"),
         "hu"
     );
 
-    sponsors = new SponsorHandler({
+    const sponsors = new SponsorHandler({
         logos: await loader.getObject("content/json/sponsors.json"),
-        srcRoot: "/content/logos/",
+        srcRoot: "content/logos/",
         mainHolderId: "main",
         otherHolderId: "other"
     });
+
+    const navBarHandler = new NavBarHandler("navbar");
+    document.getElementById("hero_learnMore").onclick = () =>
+        navBarHandler.scrollDown();
 
     sponsors.load();
 };
