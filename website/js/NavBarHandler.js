@@ -16,7 +16,7 @@ class NavBarHandler {
 
     scrollDown() {
         window.scrollTo({
-            top: window.innerHeight,
+            top: window.innerHeight + 3,
             left: 0,
             behavior: "smooth"
         });

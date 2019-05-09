@@ -16,6 +16,10 @@ const init = async() => {
     document.getElementById("hero_learnMore").onclick = () =>
         navBarHandler.scrollDown();
 
+    document.getElementById("hu").onclick = () => dict.changeLanguage("hu");
+
+    document.getElementById("en").onclick = () => dict.changeLanguage("en");
+
     sponsors.load();
 };
 
