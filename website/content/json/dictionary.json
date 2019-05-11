@@ -1,274 +1,274 @@
 {
-    "hero_shortDescription": {
-        "hu": "A koeb projekt diákok kezdeményezéseként 2017 őszén indult mindössze 10 fővel, ami mára 50 főre gyarapodott. Csapatunkban minden szakterület képviselteti magát, és törekszünk arra, hogy a döntésekben is így vegyünk részt. Vannak köztünk építészek, villamosmérnökök, tájépítészek, környezetmérnökök, építőmérnökök és menedzsmentesek is. Az első magyarországi csapat az Odoo-házzal, a 2012-es madridi Solar Decathlon Európa versenyen indult el a BME színeiben. A ház az előkelő hatodik helyet érte el.",
-        "en": "same in english"
-    },
-    "hero_learnMore": {
-        "hu": "Tudj meg többet!",
-        "en": "Learn more!"
-    },
+  "hero_shortDescription": {
+    "hu": "A koeb projekt diákok kezdeményezéseként 2017 őszén indult mindössze 10 fővel, ami mára 50 főre gyarapodott. Csapatunkban minden szakterület képviselteti magát, és törekszünk arra, hogy a döntésekben is így vegyünk részt. Vannak köztünk építészek, villamosmérnökök, tájépítészek, környezetmérnökök, építőmérnökök és menedzsmentesek is. Az első magyarországi csapat az Odoo-házzal, a 2012-es madridi Solar Decathlon Európa versenyen indult el a BME színeiben. A ház az előkelő hatodik helyet érte el.",
+    "en": "same in english"
+  },
+  "hero_learnMore": {
+    "hu": "Tudj meg többet!",
+    "en": "Learn more!"
+  },
 
-    "nav1": {
-        "hu": "Rólunk",
-        "en": "About Us"
-    },
-    "nav2": {
-        "hu": "Versenyről",
-        "en": "Competition"
-    },
-    "nav3": {
-        "hu": "Koncepciónk",
-        "en": "Concepts"
-    },
-    "nav4": {
-        "hu": "Videók",
-        "en": "Videos"
-    },
-    "nav5": {
-        "hu": "Támogatóink",
-        "en": "Sponsors"
-    },
-    "nav6": {
-        "hu": "Csapat",
-        "en": "Team"
-    },
-    "nav7": {
-        "hu": "Kapcsolat",
-        "en": "Contact"
-    },
+  "nav1": {
+    "hu": "Rólunk",
+    "en": "About Us"
+  },
+  "nav2": {
+    "hu": "Versenyről",
+    "en": "Competition"
+  },
+  "nav3": {
+    "hu": "Koncepciónk",
+    "en": "Concepts"
+  },
+  "nav4": {
+    "hu": "Videók",
+    "en": "Videos"
+  },
+  "nav5": {
+    "hu": "Támogatóink",
+    "en": "Sponsors"
+  },
+  "nav6": {
+    "hu": "Csapat",
+    "en": "Team"
+  },
+  "nav7": {
+    "hu": "Kapcsolat",
+    "en": "Contact"
+  },
 
-    "section_solar": {
-        "hu": "Solar Decathlon",
-        "en": "Solar Decathlon"
-    },
-    "solar_text1": {
-        "hu": "A Solar Decathlon egy olyan nemzetközi verseny, ahol a jövő épületei és építési technológiái születnek meg.\nEgyetemek mérkőznek meg a Föld különböző tájairól minden évben más és más helyszíneken, ahol a teljes folyamatot felügyelik az első tollvonástól, minden technológiai tervezésen át egészen a házak megépítéséig.",
-        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
-    },
-    "solar_text2": {
-        "hu": "A versenyt eredetileg a U.S. Department of Energy hozta létre, majd 2007-ben a spanyol kormány invitálására Európában is meghonosították. 2010 és 2012-ben Madridban, 2014-ben Versailles-ban rendezték meg, a 2019-es helyszín pedig Szentendre.",
-        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
-    },
-    "solar_text3": {
-        "hu": "A verseny alapvető célkitűzése, hogy megfelelő kommunikációval felhívja a figyelmet az energiapazarló életmódunk visszafogásának módjaira. Célja bizonyítani, hogy a világításra, fűtésre és hűtésre vonatkozó igényeinket ki tudjuk elégíteni a jelenleginél eredményesebben és fenntarthatóbban. Egyre növekvő energiaszükségletünket biztosíthatjuk olyan, mindenhol jelenlévő megújuló forrásokból is, mint a napenergia. ",
-        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
-    },
-    "solar_text4": {
-        "hu": "Ezeket a technológiákat megfizethető, megbízható építészeti megoldásokkal lehet integrálni, a versenyzők pedig megmutathatják, hogy hogyan. A lakáshelyzet és az építőipar kihívásaira választ adva fogalmazzuk meg a koncepciókat, melyek átültethetők meglévő lakóépületekre, és alkalmazhatók felújítási munkák során. A szakma és a piaci szereplők közös munkájának ösztönzése is cél, ennek csapatunk is remek példája.",
-        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
-    },
+  "section_solar": {
+    "hu": "Solar Decathlon",
+    "en": "Solar Decathlon"
+  },
+  "solar_text1": {
+    "hu": "A Solar Decathlon egy olyan nemzetközi verseny, ahol a jövő épületei és építési technológiái születnek meg.\nEgyetemek mérkőznek meg a Föld különböző tájairól minden évben más és más helyszíneken, ahol a teljes folyamatot felügyelik az első tollvonástól, minden technológiai tervezésen át egészen a házak megépítéséig.",
+    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
+  },
+  "solar_text2": {
+    "hu": "A versenyt eredetileg a U.S. Department of Energy hozta létre, majd 2007-ben a spanyol kormány invitálására Európában is meghonosították. 2010 és 2012-ben Madridban, 2014-ben Versailles-ban rendezték meg, a 2019-es helyszín pedig Szentendre.",
+    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
+  },
+  "solar_text3": {
+    "hu": "A verseny alapvető célkitűzése, hogy megfelelő kommunikációval felhívja a figyelmet az energiapazarló életmódunk visszafogásának módjaira. Célja bizonyítani, hogy a világításra, fűtésre és hűtésre vonatkozó igényeinket ki tudjuk elégíteni a jelenleginél eredményesebben és fenntarthatóbban. Egyre növekvő energiaszükségletünket biztosíthatjuk olyan, mindenhol jelenlévő megújuló forrásokból is, mint a napenergia. ",
+    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
+  },
+  "solar_text4": {
+    "hu": "Ezeket a technológiákat megfizethető, megbízható építészeti megoldásokkal lehet integrálni, a versenyzők pedig megmutathatják, hogy hogyan. A lakáshelyzet és az építőipar kihívásaira választ adva fogalmazzuk meg a koncepciókat, melyek átültethetők meglévő lakóépületekre, és alkalmazhatók felújítási munkák során. A szakma és a piaci szereplők közös munkájának ösztönzése is cél, ennek csapatunk is remek példája.",
+    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
+  },
 
-    "section_concepts": {
-        "hu": "Koncepciónk",
-        "en": "Concepts"
-    },
-    "concept_card1-title": {
-        "hu": "Nap",
-        "en": "Sun"
-    },
-    "concept_card1-descripte": {
-        "hu": "fenntartható jövő",
-        "en": "same in english"
-    },
-    "concept_card2-title": {
-        "hu": "I/O",
-        "en": "I/O"
-    },
-    "concept_card2-descripte": {
-        "hu": "integrált technológia",
-        "en": "same in english"
-    },
-    "concept_card3-title": {
-        "hu": "Kint/Bent",
-        "en": "játék a tér alapjaival"
-    },
-    "concept_card3-descripte": {
-        "hu": "játék a tér alapjaival",
-        "en": "same in english"
-    },
-    "concept_card4-title": {
-        "hu": "Moduláris",
-        "en": "english"
-    },
-    "concept_card4-descripte": {
-        "hu": "elemek újrafelhasználása",
-        "en": "same in english"
-    },
-    "concept_card5-title": {
-        "hu": "Megfizethető",
-        "en": "english"
-    },
-    "concept_card5-descripte": {
-        "hu": "helyi anyagok és DIY megközelítés",
-        "en": "same in english"
-    },
-    "concept_card6-title": {
-        "hu": "Hazai eredet",
-        "en": "english"
-    },
-    "concept_card6-descripte": {
-        "hu": "bizonyítás struktúrák átalakítása",
-        "en": "same in english"
-    },
+  "section_concepts": {
+    "hu": "Koncepciónk",
+    "en": "Concepts"
+  },
+  "concept_card1-title": {
+    "hu": "Nap",
+    "en": "Sun"
+  },
+  "concept_card1-descripte": {
+    "hu": "fenntartható jövő",
+    "en": "same in english"
+  },
+  "concept_card2-title": {
+    "hu": "I/O",
+    "en": "I/O"
+  },
+  "concept_card2-descripte": {
+    "hu": "integrált technológia",
+    "en": "same in english"
+  },
+  "concept_card3-title": {
+    "hu": "Kint/Bent",
+    "en": "játék a tér alapjaival"
+  },
+  "concept_card3-descripte": {
+    "hu": "játék a tér alapjaival",
+    "en": "same in english"
+  },
+  "concept_card4-title": {
+    "hu": "Moduláris",
+    "en": "english"
+  },
+  "concept_card4-descripte": {
+    "hu": "elemek újrafelhasználása",
+    "en": "same in english"
+  },
+  "concept_card5-title": {
+    "hu": "Megfizethető",
+    "en": "english"
+  },
+  "concept_card5-descripte": {
+    "hu": "helyi anyagok és DIY megközelítés",
+    "en": "same in english"
+  },
+  "concept_card6-title": {
+    "hu": "Hazai eredet",
+    "en": "english"
+  },
+  "concept_card6-descripte": {
+    "hu": "bizonyítás struktúrák átalakítása",
+    "en": "same in english"
+  },
 
-    "section_videos": {
-        "hu": "Videók",
-        "en": "Videos"
-    },
+  "section_videos": {
+    "hu": "Videók",
+    "en": "Videos"
+  },
 
-    "section_team": {
-        "hu": "Csapat",
-        "en": "Team"
-    },
-    "team_card1-header": {
-        "hu": "Építészet",
-        "en": "Architecture"
-    },
-    "team_card1-text": {
-        "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
-        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
-    },
-    "team_card1-name": {
-        "hu": "Varga Dávid",
-        "en": "David Varga"
-    },
-    "team_card1-mail": {
-        "hu": "david.varga@koeb.hu",
-        "en": "david.varga@koeb.hu"
-    },
-    "team_card2-header": {
-        "hu": "Építészet",
-        "en": "Architecture"
-    },
-    "team_card2-text": {
-        "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
-        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
-    },
-    "team_card2-name": {
-        "hu": "Varga Dávid",
-        "en": "David Varga"
-    },
-    "team_card2-mail": {
-        "hu": "david.varga@koeb.hu",
-        "en": "david.varga@koeb.hu"
-    },
-    "team_card3-header": {
-        "hu": "Építészet",
-        "en": "Architecture"
-    },
-    "team_card3-text": {
-        "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
-        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
-    },
-    "team_card3-name": {
-        "hu": "Varga Dávid",
-        "en": "David Varga"
-    },
-    "team_card3-mail": {
-        "hu": "david.varga@koeb.hu",
-        "en": "david.varga@koeb.hu"
-    },
-    "team_card4-header": {
-        "hu": "Építészet",
-        "en": "Architecture"
-    },
-    "team_card4-text": {
-        "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
-        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
-    },
-    "team_card4-name": {
-        "hu": "Varga Dávid",
-        "en": "David Varga"
-    },
-    "team_card4-mail": {
-        "hu": "david.varga@koeb.hu",
-        "en": "david.varga@koeb.hu"
-    },
-    "team_card5-header": {
-        "hu": "Építészet",
-        "en": "Architecture"
-    },
-    "team_card5-text": {
-        "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
-        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
-    },
-    "team_card5-name": {
-        "hu": "Varga Dávid",
-        "en": "David Varga"
-    },
-    "team_card5-mail": {
-        "hu": "david.varga@koeb.hu",
-        "en": "david.varga@koeb.hu"
-    },
-    "team_card6-header": {
-        "hu": "Építészet",
-        "en": "Architecture"
-    },
-    "team_card6-text": {
-        "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
-        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
-    },
-    "team_card6-name": {
-        "hu": "Varga Dávid",
-        "en": "David Varga"
-    },
-    "team_card6-mail": {
-        "hu": "david.varga@koeb.hu",
-        "en": "david.varga@koeb.hu"
-    },
-    "team_card7-header": {
-        "hu": "Építészet",
-        "en": "Architecture"
-    },
-    "team_card7-text": {
-        "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
-        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
-    },
-    "team_card7-name": {
-        "hu": "Varga Dávid",
-        "en": "David Varga"
-    },
-    "team_card7-mail": {
-        "hu": "david.varga@koeb.hu",
-        "en": "david.varga@koeb.hu"
-    },
-    "team_card8-header": {
-        "hu": "Építészet",
-        "en": "Architecture"
-    },
-    "team_card8-text": {
-        "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
-        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
-    },
-    "team_card8-name": {
-        "hu": "Varga Dávid",
-        "en": "David Varga"
-    },
-    "team_card8-mail": {
-        "hu": "david.varga@koeb.hu",
-        "en": "david.varga@koeb.hu"
-    },
+  "section_team": {
+    "hu": "Csapat",
+    "en": "Team"
+  },
+  "team_card1-header": {
+    "hu": "Építészet",
+    "en": "Architecture"
+  },
+  "team_card1-text": {
+    "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
+    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
+  },
+  "team_card1-name": {
+    "hu": "Varga Dávid",
+    "en": "David Varga"
+  },
+  "team_card1-mail": {
+    "hu": "david.varga@koeb.hu",
+    "en": "david.varga@koeb.hu"
+  },
+  "team_card2-header": {
+    "hu": "Építészet",
+    "en": "Architecture"
+  },
+  "team_card2-text": {
+    "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
+    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
+  },
+  "team_card2-name": {
+    "hu": "Varga Dávid",
+    "en": "David Varga"
+  },
+  "team_card2-mail": {
+    "hu": "david.varga@koeb.hu",
+    "en": "david.varga@koeb.hu"
+  },
+  "team_card3-header": {
+    "hu": "Építészet",
+    "en": "Architecture"
+  },
+  "team_card3-text": {
+    "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
+    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
+  },
+  "team_card3-name": {
+    "hu": "Varga Dávid",
+    "en": "David Varga"
+  },
+  "team_card3-mail": {
+    "hu": "david.varga@koeb.hu",
+    "en": "david.varga@koeb.hu"
+  },
+  "team_card4-header": {
+    "hu": "Építészet",
+    "en": "Architecture"
+  },
+  "team_card4-text": {
+    "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
+    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
+  },
+  "team_card4-name": {
+    "hu": "Varga Dávid",
+    "en": "David Varga"
+  },
+  "team_card4-mail": {
+    "hu": "david.varga@koeb.hu",
+    "en": "david.varga@koeb.hu"
+  },
+  "team_card5-header": {
+    "hu": "Építészet",
+    "en": "Architecture"
+  },
+  "team_card5-text": {
+    "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
+    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
+  },
+  "team_card5-name": {
+    "hu": "Varga Dávid",
+    "en": "David Varga"
+  },
+  "team_card5-mail": {
+    "hu": "david.varga@koeb.hu",
+    "en": "david.varga@koeb.hu"
+  },
+  "team_card6-header": {
+    "hu": "Építészet",
+    "en": "Architecture"
+  },
+  "team_card6-text": {
+    "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
+    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
+  },
+  "team_card6-name": {
+    "hu": "Varga Dávid",
+    "en": "David Varga"
+  },
+  "team_card6-mail": {
+    "hu": "david.varga@koeb.hu",
+    "en": "david.varga@koeb.hu"
+  },
+  "team_card7-header": {
+    "hu": "Építészet",
+    "en": "Architecture"
+  },
+  "team_card7-text": {
+    "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
+    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
+  },
+  "team_card7-name": {
+    "hu": "Varga Dávid",
+    "en": "David Varga"
+  },
+  "team_card7-mail": {
+    "hu": "david.varga@koeb.hu",
+    "en": "david.varga@koeb.hu"
+  },
+  "team_card8-header": {
+    "hu": "Építészet",
+    "en": "Architecture"
+  },
+  "team_card8-text": {
+    "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
+    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
+  },
+  "team_card8-name": {
+    "hu": "Varga Dávid",
+    "en": "David Varga"
+  },
+  "team_card8-mail": {
+    "hu": "david.varga@koeb.hu",
+    "en": "david.varga@koeb.hu"
+  },
 
-    "section_sponsors": {
-        "hu": "Főtámógatóink",
-        "en": "Our main sponsors"
-    },
-    "section_sponsors-sub": {
-        "hu": "Támogatóink",
-        "en": "Our sponsors"
-    },
+  "section_sponsors": {
+    "hu": "Főtámogatóink",
+    "en": "Our main sponsors"
+  },
+  "section_sponsors-sub": {
+    "hu": "Támogatóink",
+    "en": "Our sponsors"
+  },
 
-    "section_support-title": {
-        "hu": "Támogatóink",
-        "en": "Our sponsors"
-    },
-    "section_support-text": {
-        "hu": "Támogatóink",
-        "en": "Our sponsors"
-    },
+  "section_support-title": {
+    "hu": "Támogatóink",
+    "en": "Our sponsors"
+  },
+  "section_support-text": {
+    "hu": "Támogatóink",
+    "en": "Our sponsors"
+  },
 
-    "section_contact": {
-        "hu": "Lépj velünk kapcsolatba",
-        "en": "Contact us"
-    }
+  "section_contact": {
+    "hu": "Lépj velünk kapcsolatba",
+    "en": "Contact us"
+  }
 }

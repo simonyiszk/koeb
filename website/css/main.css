@@ -117,3 +117,21 @@ section {
 button:focus {
   outline: 0 !important;
 }
+
+#sponsors {
+  width: 40%;
+  margin: auto;
+}
+
+#sponsors > * {
+  margin-bottom: 2rem;
+}
+
+#sponsors > #main > a {
+  max-width: none;
+}
+
+#sponsors > #main > a > img {
+  height: 300px !important;
+  width: auto;
+}
