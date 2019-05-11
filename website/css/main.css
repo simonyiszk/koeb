@@ -1,125 +1,119 @@
 section {
-    margin: 5rem auto;
+  margin: 5rem auto;
 }
 
 #solar_decathlon {
-    max-width: 700px;
+  max-width: 700px;
 }
 
 .section__title {
-    color: #d90000;
-    text-align: center;
+  color: #d90000;
+  text-align: center;
 }
 
 .solar__grid {
-    display: grid;
-    grid-template-columns: 1fr 3fr 1fr;
-    grid-auto-rows: auto;
-    grid-gap: 1rem 2rem;
-    margin-bottom: 2rem;
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+  grid-auto-rows: auto;
+  grid-gap: 1rem 2rem;
+  margin-bottom: 2rem;
 }
 
 .solar__grid1 {
-    grid-area: 1 / 1 / 1 / 3;
+  grid-area: 1 / 1 / 1 / 3;
 }
 
 .solar__grid2 {
-    grid-area: 1 / 3 / 3 / 3;
+  grid-area: 1 / 3 / 3 / 3;
 }
 
 .solar__grid3 {
-    grid-area: 2 / 1 / 4 / 1;
+  grid-area: 2 / 1 / 4 / 1;
 }
 
 .solar__grid4 {
-    grid-area: 3 / 2 / 3 / 4;
+  grid-area: 3 / 2 / 3 / 4;
 }
 
-.solar__grid>img {
-    object-fit: cover;
-    width: 100%;
-    max-height: 100%;
+.solar__grid > img {
+  object-fit: cover;
+  width: 100%;
+  max-height: 100%;
 }
 
 .solar__imagerow {
-    display: flex;
+  display: flex;
 }
 
 .solar__imagerowcontainer {
-    flex: 1;
-    padding: 1rem;
+  flex: 1;
+  padding: 1rem;
 }
 
-.solar__imagerowcontainer>img {
-    width: 100%;
+.solar__imagerowcontainer > img {
+  width: 100%;
 }
 
 #contactrow {
-    display: flex;
-    justify-content: space-around;
-    padding: 3%;
+  display: flex;
+  justify-content: space-around;
+  padding: 3%;
 }
 
 .footerimg {
-    max-width: 100px;
-    min-width: 100px;
+  max-width: 100px;
+  min-width: 100px;
 }
 
 .social {
-    text-align: center;
-    width: 30vw;
+  text-align: center;
+  width: 30vw;
 }
 
 #patron {
-    background-image: url("/content/patron/pattern_005.png");
-    background-attachment: fixed;
-    padding: 2rem;
-    min-height: 25rem;
-    margin: 10rem 0rem;
-    width: 100%;
+  background-image: url("/content/patron/pattern_005.png");
+  background-attachment: fixed;
+  padding: 2rem;
+  min-height: 25rem;
+  margin: 10rem 0rem;
+  width: 100%;
 }
 
-#patron>* {
-    margin-left: auto;
-    margin-right: auto;
+#patron > * {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #patron__header,
-#patron>h3 {
-    background-color: rgba(255, 255, 255, 0.7);
-    background-clip: content-box;
+#patron > h3 {
+  background-color: rgba(255, 255, 255, 0.7);
+  background-clip: content-box;
 }
 
 #patron__header__wrap {
-    margin-top: 1rem;
-    margin-bottom: 3rem;
-    text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+  text-align: center;
 }
 
 #patron__header {
-    display: inline;
-    font-family: Akkurat-Bold;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 36px;
+  display: inline;
+  font-family: Akkurat-Bold;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
 }
 
-#patron>#become {
-    max-width: 320px;
-    width: 25vw;
-    min-width: 160px;
+#patron > #become {
+  max-width: 320px;
+  width: 25vw;
+  min-width: 160px;
 }
 
-#patron>#become>img {
-    width: 100%;
-}
-
-#team_cards {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+#patron > #become > img {
+  width: 100%;
 }
 
 button:focus {
-    outline: 0 !important;
+  outline: 0 !important;
 }
