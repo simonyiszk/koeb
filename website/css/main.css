@@ -69,6 +69,16 @@ section {
   margin-top: 1rem;
   font-size: 1rem;
 }
+.footer-copyright {
+  text-align: center;
+}
+.footerlogo__image {
+  max-width: 10rem;
+  display: inline-block;
+}
+.footerlogo__image > img {
+  width: 100%;
+}
 
 .social {
   text-align: center;
