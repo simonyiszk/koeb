@@ -71,12 +71,33 @@ section {
 }
 
 #patron {
-  background-image: url("/content/patron/pattern_005.png");
-  background-attachment: fixed;
   padding: 2rem;
-  min-height: 25rem;
   margin: 10rem 0rem;
   width: 100%;
+  position: relative;
+}
+
+#patron__bg {
+  background-image: url("/content/patron/pattern_005.png");
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.overlay {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  opacity: .85;
+  background: #1C1D21;
 }
 
 #patron > * {
@@ -86,8 +107,9 @@ section {
 
 #patron__header,
 #patron > h3 {
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.1);
   background-clip: content-box;
+  color: white;
 }
 
 #patron__header__wrap {

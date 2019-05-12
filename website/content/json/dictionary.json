@@ -1,7 +1,7 @@
 {
   "hero_shortDescription": {
-    "hu": "A koeb projekt diákok kezdeményezéseként 2017 őszén indult mindössze 10 fővel, ami mára 50 főre gyarapodott. Csapatunkban minden szakterület képviselteti magát, és törekszünk arra, hogy a döntésekben is így vegyünk részt. Vannak köztünk építészek, villamosmérnökök, tájépítészek, környezetmérnökök, építőmérnökök és menedzsmentesek is. Az első magyarországi csapat az Odoo-házzal, a 2012-es madridi Solar Decathlon Európa versenyen indult el a BME színeiben. A ház az előkelő hatodik helyet érte el.",
-    "en": "same in english"
+    "hu": "A koeb csapat a magyarországi vidéki épületállomány élettartamának fenntartható növelésére fókuszál energetikai és használhatósági szempontból. Ehhez egy moduláris rendszert használunk, amit csatlakoztatni lehet a kockaházakhoz, ezzel “meggyógyítva” azokat jelentős felújítás nélkül. A modulok előregyártottak, a csatlakoztatásuk kevés helyszíni munkaerőt igényel. A koeb modullal kiegészített házak rendszerbe csatlakoztathatóak, amikkel decentralizált energiaközösségeket tudunk kialakítani. A Solar Decathlon versenyen ennek mutatjuk be egy prototípusát a Műszaki Egyetem versenyházával.",
+    "en": "Team koeb is focusing on the sustainable development of the Hungarian rural building stock, in terms of usability and energy efficiency. We are using a modular system that can be connected to an existing house, “healing” it without significant renovation. The modules are prefabricated, connecting them requires minimal field labor. Homes with koeb modules can be connected together, thereby creating decentralised energy communities. On the Solar Decathlon competition, we are showcasing a prototype of this building system with the competition house of Budapest University of Technology and Economics."
   },
   "hero_learnMore": {
     "hu": "Tudj meg többet!",
@@ -42,20 +42,20 @@
     "en": "Solar Decathlon"
   },
   "solar_text1": {
-    "hu": "A Solar Decathlon egy olyan nemzetközi verseny, ahol a jövő épületei és építési technológiái születnek meg.\nEgyetemek mérkőznek meg a Föld különböző tájairól minden évben más és más helyszíneken, ahol a teljes folyamatot felügyelik az első tollvonástól, minden technológiai tervezésen át egészen a házak megépítéséig.",
-    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
+    "hu": "A Solar Decathlon egy olyan nemzetközi verseny, ahol a jövő épületei és építési technológiái születnek meg.\nEgyetemek mérkőznek meg a Föld különböző tájairól, minden évben más és más helyszíneken, ahol a teljes folyamatot felügyelniük kell az első tollvonástól, minden technológiai tervezésen át egészen a házak megépítéséig.",
+    "en": "Solar Decathlon is an international competition of innovation, where future homes and building technologies are born.\nUniversity teams from all around the world participate in the competition to create innovative housing solutions in the field of energy- and environmentally conscious architecture and related technologies."
   },
   "solar_text2": {
-    "hu": "A versenyt eredetileg a U.S. Department of Energy hozta létre, majd 2007-ben a spanyol kormány invitálására Európában is meghonosították. 2010 és 2012-ben Madridban, 2014-ben Versailles-ban rendezték meg, a 2019-es helyszín pedig Szentendre.",
-    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
+    "hu": "A versenyt eredetileg a U.S. Department of Energy hozta létre, az első verseny 2002-ben került megrendezésre Washingtonban. A versenyt 2007-ben a spanyol kormány invitálására Európában is meghonosították. 2010 és 2012-ben Madridban, 2014-ben Versailles-ban rendezték meg, a 2019-es helyszín pedig Szentendre.",
+    "en": "Initiated by the Department of Energy (DoE) of the US Government, the first Solar Decathlon competition was held in Washington in 2002. Solar Decathlon Europe was launched in 2007 in Europe with the invitation of Spanish Government. In 2010 and 2012 the event was again held in Madrid, thereafter in Versailles in 2014, and this year in Szentendre."
   },
   "solar_text3": {
-    "hu": "A verseny alapvető célkitűzése, hogy megfelelő kommunikációval felhívja a figyelmet az energiapazarló életmódunk visszafogásának módjaira. Célja bizonyítani, hogy a világításra, fűtésre és hűtésre vonatkozó igényeinket ki tudjuk elégíteni a jelenleginél eredményesebben és fenntarthatóbban. Egyre növekvő energiaszükségletünket biztosíthatjuk olyan, mindenhol jelenlévő megújuló forrásokból is, mint a napenergia. ",
-    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
+    "hu": "A verseny alapvető célkitűzése, hogy megfelelő kommunikációval felhívja a figyelmet az energiapazarló életmódunk visszafogásának módjaira. Célja bizonyítani, hogy a világításra, fűtésre és hűtésre vonatkozó igényeinket ki tudjuk elégíteni a jelenleginél eredményesebben és fenntarthatóbban. Egyre növekvő energiaszükségletünket biztosíthatjuk olyan, mindenhol jelenlévő megújuló forrásokból is, mint a napenergia.",
+    "en": "One of the main characteristic elements of the competition is to raise awareness on our energy-wasting lifestyle and prove that there are numerous sustainable and efficient solutions regarding the lighting, cooling and heating. It demonstrates how we can ensure our ever-growing energy needs from such omnipresent renewable resources like solar energy."
   },
   "solar_text4": {
-    "hu": "Ezeket a technológiákat megfizethető, megbízható építészeti megoldásokkal lehet integrálni, a versenyzők pedig megmutathatják, hogy hogyan. A lakáshelyzet és az építőipar kihívásaira választ adva fogalmazzuk meg a koncepciókat, melyek átültethetők meglévő lakóépületekre, és alkalmazhatók felújítási munkák során. A szakma és a piaci szereplők közös munkájának ösztönzése is cél, ennek csapatunk is remek példája.",
-    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
+    "hu": "Ezeket a technológiákat megfizethető, megbízható építészeti megoldásokkal lehet integrálni, a versenyzők pedig megmutathatják, hogy hogyan. A lakhatás és az építőipar kihívásaira választ adva fogalmaztuk meg koncepcióinkat, melyek átültethetők meglévő lakóépületekre, és alkalmazhatók felújítási munkák során. A szakma és a piaci szereplők közös munkájának ösztönzése is cél, ennek csapatunk is remek példája.",
+    "en": "Competitors demonstrates how to integrate these technologies with affordable and reliable architectural solutions. We shape our concept based on the challanges of the building industry and housing, taken in consideration the transferability to already existing houses and renovations. The common work and support of professional and market participants is another goal, our team is a good example in that case."
   },
 
   "section_concepts": {
@@ -68,7 +68,7 @@
   },
   "concept_card1-descripte": {
     "hu": "fenntartható jövő",
-    "en": "same in english"
+    "en": "sustainable future"
   },
   "concept_card2-title": {
     "hu": "I/O",
@@ -76,39 +76,39 @@
   },
   "concept_card2-descripte": {
     "hu": "integrált technológia",
-    "en": "same in english"
+    "en": "integrated technology"
   },
   "concept_card3-title": {
-    "hu": "Kint/Bent",
-    "en": "játék a tér alapjaival"
+    "hu": "Interior/Exterior",
+    "en": "Inside/Outside"
   },
   "concept_card3-descripte": {
     "hu": "játék a tér alapjaival",
-    "en": "same in english"
+    "en": "playing with the fundamentals of space"
   },
   "concept_card4-title": {
     "hu": "Moduláris",
-    "en": "english"
+    "en": "Modular"
   },
   "concept_card4-descripte": {
     "hu": "elemek újrafelhasználása",
-    "en": "same in english"
+    "en": "elements can be reused in different scenarios"
   },
   "concept_card5-title": {
     "hu": "Megfizethető",
-    "en": "english"
+    "en": "Affordable"
   },
   "concept_card5-descripte": {
     "hu": "helyi anyagok és DIY megközelítés",
-    "en": "same in english"
+    "en": "local materials and DIY approach"
   },
   "concept_card6-title": {
     "hu": "Hazai eredet",
-    "en": "english"
+    "en": "Vernacular roots"
   },
   "concept_card6-descripte": {
-    "hu": "bizonyítás struktúrák átalakítása",
-    "en": "same in english"
+    "hu": "bizonyított struktúrák átalakítása",
+    "en": "transformation of proven structures"
   },
 
   "section_videos": {
@@ -137,8 +137,8 @@
     "en": "david.varga@koeb.hu"
   },
   "team_card2-header": {
-    "hu": "Építészet",
-    "en": "Architecture"
+    "hu": "Szerkezetek",
+    "en": "Structural"
   },
   "team_card2-text": {
     "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
@@ -153,8 +153,8 @@
     "en": "david.varga@koeb.hu"
   },
   "team_card3-header": {
-    "hu": "Építészet",
-    "en": "Architecture"
+    "hu": "Vizualizáció",
+    "en": "Visualization"
   },
   "team_card3-text": {
     "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
@@ -169,8 +169,8 @@
     "en": "david.varga@koeb.hu"
   },
   "team_card4-header": {
-    "hu": "Építészet",
-    "en": "Architecture"
+    "hu": "Mechanika",
+    "en": "Mechanical"
   },
   "team_card4-text": {
     "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
@@ -185,8 +185,8 @@
     "en": "david.varga@koeb.hu"
   },
   "team_card5-header": {
-    "hu": "Építészet",
-    "en": "Architecture"
+    "hu": "Márka",
+    "en": "Brand"
   },
   "team_card5-text": {
     "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
@@ -201,8 +201,8 @@
     "en": "david.varga@koeb.hu"
   },
   "team_card6-header": {
-    "hu": "Építészet",
-    "en": "Architecture"
+    "hu": "Elektromosság",
+    "en": "Electrical"
   },
   "team_card6-text": {
     "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
@@ -217,8 +217,8 @@
     "en": "david.varga@koeb.hu"
   },
   "team_card7-header": {
-    "hu": "Építészet",
-    "en": "Architecture"
+    "hu": "Környezet",
+    "en": "Environment"
   },
   "team_card7-text": {
     "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
@@ -233,8 +233,8 @@
     "en": "david.varga@koeb.hu"
   },
   "team_card8-header": {
-    "hu": "Építészet",
-    "en": "Architecture"
+    "hu": "Projekt menedzsment",
+    "en": "Project management"
   },
   "team_card8-text": {
     "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
@@ -265,6 +265,10 @@
   "section_support-text": {
     "hu": "Támogatóink",
     "en": "Our sponsors"
+  },
+  "patron__header": {
+    "hu": "Légy része a sikerünknek, támogass minket!",
+    "en": "Be part of our success, support us!"
   },
 
   "section_contact": {
