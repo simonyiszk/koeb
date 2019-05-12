@@ -65,6 +65,11 @@ section {
   min-width: 100px;
 }
 
+.contacticon__text {
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
 .social {
   text-align: center;
   width: 30vw;
