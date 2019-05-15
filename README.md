@@ -1,6 +1,6 @@
 # koeb
 
-http://koeb.hu/
+http://koeb.hu/ ; https://elegant-dijkstra-098397.netlify.com/
 
 ## Megjegyzések a fejlesztéshez
 
