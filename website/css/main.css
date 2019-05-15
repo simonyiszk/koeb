@@ -1,3 +1,7 @@
+:root {
+  --shadow: 0px 2px 3px rgba(0, 0, 0, 0.15), 0px 4px 6px rgba(0, 0, 0, 0.15);
+}
+
 section {
   margin: 5rem auto;
 }
@@ -111,8 +115,8 @@ section {
   top: 0;
   right: 0;
   bottom: 0;
-  opacity: .85;
-  background: #1C1D21;
+  opacity: 0.85;
+  background: #1c1d21;
 }
 
 #patron > * {

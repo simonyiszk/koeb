@@ -6,76 +6,95 @@
       "name": "logo"
     }
   ],
-
   "others": [
     {
       "src": "Brick data logo_3.png",
-      "link": "http://koeb.hu",
+      "link": "http://brickdata.hu/",
       "name": "logo"
     },
     {
       "src": "Daikin_logo.png",
-      "link": "http://koeb.hu",
+      "link": "https://www.daikin.hu/hu_hu/customers.html",
       "name": "logo"
     },
     {
       "src": "FAMASZ_Logo.png",
-      "link": "http://koeb.hu",
+      "link": "https://famasz.hu/",
       "name": "logo"
     },
     {
       "src": "Fronius Logo.png",
-      "link": "http://koeb.hu",
+      "link": "https://www.fronius.com/hu-hu/hungary",
       "name": "logo"
     },
     {
       "src": "Geberit_logo.png",
-      "link": "http://koeb.hu",
+      "link": "https://www.geberit.hu/hu/",
       "name": "logo"
     },
     {
       "src": "Grundfos_logo_2.png",
-      "link": "http://koeb.hu",
+      "link": "https://hu.grundfos.com/",
       "name": "logo"
     },
     {
       "src": "INSTASOLAR.png",
-      "link": "http://koeb.hu",
+      "link": "http://www.instasolar.hu/",
       "name": "logo"
     },
     {
       "src": "JAFholz.png",
-      "link": "http://koeb.hu",
+      "link": "https://www.jafholz.hu/",
       "name": "logo"
     },
     {
       "src": "Lindab-logo.png",
-      "link": "http://koeb.hu",
+      "link": "http://www.lindab.com/hu/",
       "name": "logo"
     },
     {
       "src": "mvm-uj-logo_200x.png",
-      "link": "http://koeb.hu",
+      "link": "http://mvm.hu/",
       "name": "logo"
     },
     {
       "src": "NGBS-logo.jpg",
-      "link": "http://koeb.hu",
+      "link": "http://www.ngbsh.hu/hu/",
       "name": "logo"
     },
     {
       "src": "schako_2017.png",
-      "link": "http://koeb.hu",
+      "link": "https://schako.com/hu/termekek/",
       "name": "logo"
     },
     {
       "src": "Siemens-logo-png.png",
-      "link": "http://koeb.hu",
+      "link": "https://new.siemens.com/hu/hu.html",
       "name": "logo"
     },
     {
       "src": "verdom.png",
-      "link": "http://koeb.hu",
+      "link": "https://www.verdom.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "pontlight.png",
+      "link": "http://pontlight.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "hannabi.png",
+      "link": "http://hannabisofa.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "Viaplant.png",
+      "link": "http://viaplant.com/",
+      "name": "logo"
+    },
+    {
+      "src": "hunikdesign.png",
+      "link": "http://hunikdesign.com/",
       "name": "logo"
     }
   ]

@@ -8,9 +8,10 @@
 }
 .card {
   background-color: hotpink;
-  border-radius: 10px;
-  box-shadow: 0 0.5px 1px 1px rgba(0, 0, 0, 0.1);
-  padding: 1rem;
+  border-radius: 30px !important;
+  border: none !important;
+  box-shadow: var(--shadow);
+  padding: 1.5rem;
   max-width: 400px;
   margin: 1rem;
 }
@@ -22,11 +23,12 @@
 .card > .upper,
 .card > .lower {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
 }
 
 .card > .lower > img,
 .card > .upper > img {
-  height: 70px;
+  height: 100px;
+  border-radius: 10000px;
 }

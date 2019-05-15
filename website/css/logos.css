@@ -1,18 +1,39 @@
-#sponsors>div {
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
+#sponsors > div {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
 }
 
 .logo {
-    display: block;
-    max-width: 20vmin;
-    height: auto;
-    align-self: center;
-    padding: 10px;
+  display: block;
+  max-width: 20vmin;
+  height: auto;
+  align-self: center;
+  padding: 10px;
 }
 
-.logo>img {
-    width: 100%;
-    height: auto;
+.logo > img {
+  width: 100%;
+  height: auto;
+}
+
+.inflow_logo_holder {
+  display: flex;
+  justify-content: space-around;
+  margin: 3rem auto;
+}
+
+.inflow_logo {
+  height: 70px;
+  cursor: pointer;
+}
+
+#must-have-logos {
+  display: flex;
+  justify-content: space-around;
+}
+
+#must-have-logos > img {
+  height: 50px;
+  cursor: pointer;
 }
