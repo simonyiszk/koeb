@@ -3,6 +3,17 @@
 - http://koeb.hu/
 - https://elegant-dijkstra-098397.netlify.com/
 
+## TODO
+
+- [ ] Akkurat font
+- [ ] illetve a mobilos megjelenítés erősen work in progress
+- [ ] *csapat résznél nem találtam infót, hogy milyen neveket, képeket és leírásokat kéne belerakni, igazából divíziókhoz is 8 név van, de csak 6 logó*
+- [x] A doksis szövegek második felét még nem raktam bele
+- [x] Az SDE logo helyett az SDE19 logoját használjátok légyszi (erre háklisak a szervezők, az én hibám, elfelejtettem elküldeni, most melléklem)
+- [x] Zsófi csinál egy színkiosztást a landing-hez, mert a barna-sárga pont a másik magyar csapat főszínei
+- [x] Patreonos résznél más betűtípus van
+- [x] melléklem a négy hiányzó szponzor logoját
+
 ## Megjegyzések a fejlesztéshez
 
 ### Webszerver futtatása

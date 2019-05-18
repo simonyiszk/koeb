@@ -139,7 +139,6 @@ section {
 
 #patron__header {
   display: inline;
-  font-family: Akkurat-Bold;
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
@@ -175,4 +174,14 @@ button:focus {
 #sponsors > #main > a > img {
   height: 300px !important;
   width: auto;
+}
+
+.text-holder {
+  width: 60%;
+  margin: auto;
+}
+
+.text-holder > p {
+  padding: 1rem;
+  font-size: 1.1rem;
 }

@@ -111,6 +111,36 @@
     "en": "transformation of proven structures"
   },
 
+  "c1": {
+    "hu": "A déli homlokzat egy jól ismert magyar építészeti jellegzetesség megvalósítása: veranda. Kiemelkedő szerepet tölt be a napenergia hasznosításában, nyáron árnyékol, télen pedig engedi, hogy a nap megvilágítsa a belső  teret, és felmelegítse a tömegfalunkat.",
+    "en": "The southern facade is an implementation of a well-known feature of Hungarian vernacular architecture: the porch. It will play a major role in the solar behaviour by providing shade in the summer and letting the sun to illuminate the interior and penetrate the heavy walls in the winter."
+  },
+
+  "c2": {
+    "hu": "A déli modul naptérként és hőtároló kapacitásként funkcionál, tömegfalként egy gabion fal kerül beépítésre, passzív napenergia hasznosítás céljából . A gabion fal egy működtethető árnyékolóval elfedve védelmet nyújt a nyári túlmelegedéssel szemben. Ez az oldal télen meleget sugároz a lakóhelyiségekbe.\nAz északi modulban találhatók az automatizáló és szabályozó egységek, az akkumulátoros energiatároló és a hőszivattyú. Itt is nagy hangsúlyt fektettünk a megfelelő hőszigetelésre a hőveszteség elkerülése érdekében. Ez a modul a ház “lelke”.",
+    "en": "The southern module acts as a sunspace and thermal storage of the house, using a gabion wall to utilise solar energy. The gabion wall, which is covered with operable shading to further prevent summer overheating acts as a secondary layer for protection. This side will be used to  transfer heat in the winter into the living area.\nThe northern module of the building hosts the building automation and controlling units, the battery storage and heat pump. It is designed to have very good insulating properties to prevent heat loss. This module is the “soul” of the house."
+  },
+
+  "c3": {
+    "hu": "A belső és külső környezet találkozásainak kialakításánal törekedtünk az éles határok elkerülésére. A fény, a természet fokozatos átmenetekkel alakítja és tágítja a teret, felszabadítva a belső életteret a kompakt, északi mag körül.",
+    "en": "The contours of interior and exterior are blurred​. Light and nature are filtered layer by layer​, illuminating and expanding the space​, which is organised by the more constrained functions concentrated in the northern module​, freeing up most of the interior​."
+  },
+
+  "c4": {
+    "hu": "A végfelhasználó általában nem, vagy alig vesz részt életterének megtervezésében és kialakításában. Az igény azonban meg lenne rá. Célunk lehetőséget teremteni arra, hogy mindenki igényei szerint alakíthassa otthonát. Egy moduláris építési rendszert alkottunk meg, amely termékpaletta felső kategóriája kerül bemutatásra a Solar Decathlon versenyen. Bemutatja, hogyan működik a rendszer és, hogy milyen lehetőségek rejlenek benne. A modulrendszer testreszabható és igény szerint kombinálható, hogy választ adhasson a különböző szituációkra és a változó élethelyzetre.",
+    "en": "The end users don’t usually take part in designing or creating their own living spaces - unless they shape a basic shelter from scratch/anything that is on hand. They do have ideas and needs​. What they do not have is knowledge​, architectural infrastructure and tools​. We want to make sure people can afford - and know that they are entitled to - the environment they wish for. If the building system can be stripped down to its very basic function these previously mentioned ambitions can be satisfied. The life of any building begins with design and eventually the building process itself turns out to be just the product assembly​.\nThe shape is formed then the elements are chosen to assemble​ the desired form. Our project is made the other way around​​. We are planning a limited set of elements that are represented in the Solar Decathlon competition pavilion using the high-end of the palette. It is heading to show how the system works and how far it can go - considering engineering solutions.The proposal is a building system that is customisable and possible modifications throughout its life are considered. Because let’s face it​, eventually they are going to happen. Thinking of a minor change - just an additional power outlet creates superfluous mess in our homes not to mention the extensions when the kids need more space."
+  },
+
+  "c5": {
+    "hu": "Egy társadalom építési szokásai jól alkalmazkodtak az életstílushoz, a szükségletekhez és a helyi klímához. Ha körbenézünk a világban, könnyen kitalálhatjuk , hogy egy adott ház hol épült. A “világfalu” kialakulásával azonban könnyen szem elől téveszthetjük ezeket az alapelveket. Projektünkben szeretnénk ötvözni a lokális értékeket a globális gondolkodás újító ötleteivel.",
+    "en": "How a given culture builds is a very good indicator for the lifestyle, needs, and the particular climate. When you look at the different townscapes around the world, after a while it’s easy to guess where a house is built. Nowadays when Pinterest and the Internet brings everything up to your door, it’s very easy to forget what the end goal of building is, instead of thinking either global or ultimately local, we prefer to think glocal."
+  },
+
+  "c6": {
+    "hu": "A Budapesti Műszaki és Gazdaságtudományi Egyetem (BME) Közép-Európa és Magyarország egyik legnagyobb presztízzsel rendelkező műszaki egyeteme, jelenleg nyolc karával és több mint 25 000 hallgatójával.  1782-es alapításával a világ egyik első műszaki és egyben az egyik legnagyobb magyar egyeteme.",
+    "en": "The Budapest University of Technology and Economics (BME) with around 25000 students and 8 faculties (Civil Engineering, Mechanical Engineering, Architecture, Chemical Technology and Biotechnology, Electrical Engineering and Informatics, Transportation Engineering, Natural Sciences, Economic and Social Sciences) provides the possibility in Hungary to study with its diverse educational programme at a prestigous technical university since the 18th century. The University is considered as the biggest and most cohere higher educational platform in the STEM held in Hungary."
+  },
+
   "section_videos": {
     "hu": "Videók",
     "en": "Videos"
