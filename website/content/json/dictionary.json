@@ -159,12 +159,12 @@
     "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
   },
   "team_card1-name": {
-    "hu": "Varga Dávid",
-    "en": "David Varga"
+    "hu": "Horóczi Flóra",
+    "en": "Flóra Horóczi"
   },
   "team_card1-mail": {
-    "hu": "david.varga@koeb.hu",
-    "en": "david.varga@koeb.hu"
+    "hu": "flora.horoczi@koeb.hu",
+    "en": "flora.horoczi@koeb.hu"
   },
   "team_card2-header": {
     "hu": "Szerkezetek",
@@ -175,28 +175,28 @@
     "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
   },
   "team_card2-name": {
-    "hu": "Varga Dávid",
-    "en": "David Varga"
+    "hu": "Bogár Márió",
+    "en": "Márió Bogár"
   },
   "team_card2-mail": {
-    "hu": "david.varga@koeb.hu",
-    "en": "david.varga@koeb.hu"
+    "hu": "mario.bogar@koeb.hu",
+    "en": "mario.bogar@koeb.hu"
   },
   "team_card3-header": {
-    "hu": "Vizualizáció",
-    "en": "Visualization"
+    "hu": "Belsőépítészet",
+    "en": "Interior Design"
   },
   "team_card3-text": {
     "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
     "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
   },
   "team_card3-name": {
-    "hu": "Varga Dávid",
-    "en": "David Varga"
+    "hu": "Sörényi Zsófia",
+    "en": "Zsófia Sörényi"
   },
   "team_card3-mail": {
-    "hu": "david.varga@koeb.hu",
-    "en": "david.varga@koeb.hu"
+    "hu": "zsofia.sorenyi@koeb.hu",
+    "en": "zsofia.sorenyi@koeb.hu"
   },
   "team_card4-header": {
     "hu": "Mechanika",
@@ -207,28 +207,28 @@
     "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
   },
   "team_card4-name": {
-    "hu": "Varga Dávid",
-    "en": "David Varga"
+    "hu": "Csapó Dániel",
+    "en": "Dániel Csapó"
   },
   "team_card4-mail": {
-    "hu": "david.varga@koeb.hu",
-    "en": "david.varga@koeb.hu"
+    "hu": "daniel.csapo@koeb.hu",
+    "en": "daniel.csapo@koeb.hu"
   },
   "team_card5-header": {
-    "hu": "Márka",
-    "en": "Brand"
+    "hu": "Vállalati kapcsolatok",
+    "en": "Corporate Relations"
   },
   "team_card5-text": {
     "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
     "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
   },
   "team_card5-name": {
-    "hu": "Varga Dávid",
-    "en": "David Varga"
+    "hu": "Kis Levente",
+    "en": "Levente Kis"
   },
   "team_card5-mail": {
-    "hu": "david.varga@koeb.hu",
-    "en": "david.varga@koeb.hu"
+    "hu": "levente.kis@koeb.hu",
+    "en": "levente.kis@koeb.hu"
   },
   "team_card6-header": {
     "hu": "Elektromosság",
@@ -239,28 +239,28 @@
     "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
   },
   "team_card6-name": {
-    "hu": "Varga Dávid",
-    "en": "David Varga"
+    "hu": "Tóbiás Csaba",
+    "en": "Csaba Tóbiás"
   },
   "team_card6-mail": {
-    "hu": "david.varga@koeb.hu",
-    "en": "david.varga@koeb.hu"
+    "hu": "csaba.tobias@koeb.hu",
+    "en": "csaba.tobias@koeb.hu"
   },
   "team_card7-header": {
     "hu": "Környezet",
-    "en": "Environment"
+    "en": "Neighbourhood Integration"
   },
   "team_card7-text": {
     "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
     "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
   },
   "team_card7-name": {
-    "hu": "Varga Dávid",
-    "en": "David Varga"
+    "hu": "Berczi Zsófia",
+    "en": "Zsófia Berczi"
   },
   "team_card7-mail": {
-    "hu": "david.varga@koeb.hu",
-    "en": "david.varga@koeb.hu"
+    "hu": "zsofia.berczi@koeb.hu",
+    "en": "zsofia.berczi@koeb.hu"
   },
   "team_card8-header": {
     "hu": "Projekt menedzsment",
@@ -271,12 +271,44 @@
     "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
   },
   "team_card8-name": {
-    "hu": "Varga Dávid",
-    "en": "David Varga"
+    "hu": "Csúsz István",
+    "en": "István Csúsz"
   },
   "team_card8-mail": {
+    "hu": "istvan.csusz@koeb.hu",
+    "en": "istvan.csusz@koeb.hu"
+  },
+  "team_card9-header": {
+    "hu": "Fenntarthatóság és körkörösség",
+    "en": "Sustainability & Circularity"
+  },
+  "team_card9-text": {
+    "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
+    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
+  },
+  "team_card9-name": {
+    "hu": "Varga Dávid",
+    "en": "Dávid Varga"
+  },
+  "team_card9-mail": {
     "hu": "david.varga@koeb.hu",
     "en": "david.varga@koeb.hu"
+  },
+  "team_card10-header": {
+    "hu": "Kommunikáció",
+    "en": "Communication"
+  },
+  "team_card10-text": {
+    "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
+    "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."
+  },
+  "team_card10-name": {
+    "hu": "Kosztyó Dominika",
+    "en": "Dominika Kosztyó"
+  },
+  "team_card10-mail": {
+    "hu": "dominika.kosztyo@koeb.hu",
+    "en": "dominika.kosztyo@koeb.hu"
   },
 
   "section_sponsors": {
