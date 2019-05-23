@@ -185,3 +185,26 @@ button:focus {
   padding: 1rem;
   font-size: 1.1rem;
 }
+
+@media (max-width: 700px) {
+  body {
+    width: 100%;
+    margin: auto;
+  }
+  .text-holder {
+    width: 95%;
+  }
+
+  #sponsors > #main > a > img {
+    height: 75px !important;
+    width: auto;
+  }
+
+  h1 {
+    font-size: 1.33rem !important;
+  }
+
+  #solar_decathlon {
+    width: 90%;
+  }
+}
