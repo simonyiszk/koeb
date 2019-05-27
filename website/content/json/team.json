@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Építész divízió",
+    "logo": "epitesz_logo.svg",
+    "leader": {
+      "name": "Kis Éva",
+      "photo": "kis_eva.jpg"
+    },
+    "members": [
+      {
+        "name": "Kis Éva",
+        "photo": "kis_eva.jpg"
+      },
+      {
+        "name": "Kis Anna",
+        "photo": "kis_anna.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Másik divízió",
+    "logo": "epitesz_logo.svg",
+    "leader": {
+      "name": "Másik Kis Éva",
+      "photo": "kis_eva.jpg"
+    },
+    "members": [
+      {
+        "name": "Kis Éva",
+        "photo": "kis_eva.jpg"
+      },
+      {
+        "name": "Kis Anna",
+        "photo": "kis_anna.jpg"
+      }
+    ]
+  }
+]

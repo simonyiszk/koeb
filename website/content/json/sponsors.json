@@ -4,6 +4,11 @@
       "src": "horizont.png",
       "link": "http://koeb.hu",
       "name": "logo"
+    },
+    {
+      "src": "FAMASZ_Logo.png",
+      "link": "https://famasz.hu/",
+      "name": "logo"
     }
   ],
   "others": [
@@ -15,11 +20,6 @@
     {
       "src": "Daikin_logo.png",
       "link": "https://www.daikin.hu/hu_hu/customers.html",
-      "name": "logo"
-    },
-    {
-      "src": "FAMASZ_Logo.png",
-      "link": "https://famasz.hu/",
       "name": "logo"
     },
     {
@@ -85,6 +85,11 @@
     {
       "src": "Hannabi-logo.jpg",
       "link": "http://hannabisofa.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "krullung.png",
+      "link": "http://krullung.hu/",
       "name": "logo"
     },
     {

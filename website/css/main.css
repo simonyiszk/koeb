@@ -55,7 +55,15 @@ section {
 }
 
 .solar__imagerowcontainer > img {
-  width: 100%;
+  width: calc(100% - 1rem);
+}
+
+.solar__imagerowcontainer:first-of-type {
+  padding-left: 0;
+}
+
+.solar__imagerowcontainer:last-of-type {
+  padding-right: 0;
 }
 
 #contactrow {
@@ -172,7 +180,7 @@ button:focus {
 }
 
 #sponsors > #main > a > img {
-  height: 300px !important;
+  height: 180px !important;
   width: auto;
 }
 
