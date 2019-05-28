@@ -212,6 +212,10 @@ button:focus {
     width: auto;
   }
 
+  #sponsors > #main > a:nth-child(2) > img {
+    height: 50px !important;
+  }
+
   h1 {
     font-size: 1.33rem !important;
   }

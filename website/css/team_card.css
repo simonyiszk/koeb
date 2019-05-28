@@ -56,6 +56,16 @@
   }
 
   .card {
+    width: 70%;
+  }
+}
+
+@media (max-width: 900px) {
+  #team_cards > * {
+    flex-direction: column;
+  }
+
+  .card {
     width: 90%;
   }
 }
