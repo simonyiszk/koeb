@@ -1,37 +1,221 @@
 [
   {
-    "name": "Építész divízió",
+    "name": "Project Management",
     "logo": "epitesz_logo.svg",
     "leader": {
-      "name": "Kis Éva",
-      "photo": "kis_eva.jpg"
+      "name": "Csúsz István",
+      "photo": "csusz_i.jpg"
     },
     "members": [
       {
-        "name": "Kis Éva",
-        "photo": "kis_eva.jpg"
+        "name": "Oláh Kristóf",
+        "photo": "olah_k.jpg"
       },
       {
-        "name": "Kis Anna",
-        "photo": "kis_anna.jpg"
+        "name": "Kis Levente",
+        "photo": "kis_l.jpg"
+      },
+      {
+        "name": "Lampert Angelika",
+        "photo": "lampert_a.jpg"
+      },
+      {
+        "name": "Bucsi György",
+        "photo": "bucsi_gy.jpg"
       }
     ]
   },
   {
-    "name": "Másik divízió",
-    "logo": "epitesz_logo.svg",
+    "name": "Architecture",
+    "logo": "architecture.svg",
     "leader": {
-      "name": "Másik Kis Éva",
-      "photo": "kis_eva.jpg"
+      "name": "Horóczi Flóra",
+      "photo": "horoczi_f.jpg"
     },
     "members": [
       {
-        "name": "Kis Éva",
-        "photo": "kis_eva.jpg"
+        "name": "Horváth Bence",
+        "photo": "horvath_b.jpg"
       },
       {
-        "name": "Kis Anna",
-        "photo": "kis_anna.jpg"
+        "name": "Nagy Eszter",
+        "photo": "nagy_e.jpg"
+      },
+      {
+        "name": "Szabó Eszter",
+        "photo": "szabo_e.jpg"
+      },
+      {
+        "name": "Somogyi Bálint",
+        "photo": "somogyi_b.jpg"
+      },
+      {
+        "name": "Biró Kitti",
+        "photo": "biro_k.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Interior Design",
+    "logo": "epitesz_logo.svg",
+    "leader": {
+      "name": "Sörényi Zsófi",
+      "photo": "sorenyi_zs.jpg"
+    },
+    "members": [
+      {
+        "name": "Iffiú Anna",
+        "photo": "iffiu_a.jpg"
+      },
+      {
+        "name": "Vas Ádám",
+        "photo": "vas_a.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Neighbourhood Integration",
+    "logo": "epitesz_logo.svg",
+    "leader": {
+      "name": "Berczi Zsófia",
+      "photo": "berczi_zs.jpg"
+    },
+    "members": [
+      {
+        "name": "Lakatos Viktória",
+        "photo": "lakatos_v.jpg"
+      },
+      {
+        "name": "Kozák Ágnes",
+        "photo": "kozak_a.jpg"
+      },
+      {
+        "name": "Kovács Ádám",
+        "photo": "kovacs_a.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Mechanical Engineering",
+    "logo": "epitesz_logo.svg",
+    "leader": {
+      "name": "Csapó Dániel",
+      "photo": "csapo_d.jpg"
+    },
+    "members": [
+      {
+        "name": "Kopányi Attila",
+        "photo": "kopanyi_a.jpg"
+      },
+      {
+        "name": "Tóth Kristóf",
+        "photo": "toth_k.jpg"
+      },
+      {
+        "name": "Tischler Ádám",
+        "photo": "tischler_a.jpg"
+      },
+      {
+        "name": "Felnagy Tamás",
+        "photo": "felnagy_t.jpg"
+      },
+      {
+        "name": "M. Tóth Márton",
+        "photo": "toth_m.jpg"
+      },
+      {
+        "name": "Czakó Tamás",
+        "photo": "czako_z.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Electrical Engineer",
+    "logo": "epitesz_logo.svg",
+    "leader": {
+      "name": "Tóbiás Csaba",
+      "photo": "tobias_cs.jpg"
+    },
+    "members": [
+      {
+        "name": "Bozsódi Márton",
+        "photo": "bozsodi_m.jpg"
+      },
+      {
+        "name": "Csorba István",
+        "photo": "csorba_i.jpg"
+      },
+      {
+        "name": "Kovács Gyula",
+        "photo": "kovacs_gy.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Structural Engineering",
+    "logo": "epitesz_logo.svg",
+    "leader": {
+      "name": "Bogár Márió",
+      "photo": "bogar_m.jpg"
+    },
+    "members": [
+      {
+        "name": "Szabó Simon",
+        "photo": "szabo_s.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Sustainability & Circularity",
+    "logo": "epitesz_logo.svg",
+    "leader": {
+      "name": "Varga Dávid",
+      "photo": "varga_d.jpg"
+    },
+    "members": [
+      {
+        "name": "Pulay Fruzsina",
+        "photo": "pulay_f.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Site Operations",
+    "logo": "epitesz_logo.svg",
+    "leader": {
+      "name": "Tóth Nándor",
+      "photo": "toth_n.jpg"
+    },
+    "members": [
+      {
+        "name": "Csúsz István",
+        "photo": "csusz_i.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Communication",
+    "logo": "epitesz_logo.svg",
+    "leader": {
+      "name": "Kosztyó Dominika",
+      "photo": "kosztyo_d.jpg"
+    },
+    "members": [
+      {
+        "name": "Sörényi Nóra",
+        "photo": "sorenyi_n.jpg"
+      },
+      {
+        "name": "Pércsy Dávid",
+        "photo": "percsy_d.jpg"
+      },
+      {
+        "name": "Potyondi Gergő",
+        "photo": "potyondi_g.jpg"
+      },
+      {
+        "name": "Michelisz Éva",
+        "photo": "michelisz_e.jpg"
       }
     ]
   }
