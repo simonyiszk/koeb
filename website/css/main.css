@@ -184,6 +184,9 @@ button:focus {
   height: 180px !important;
   width: auto;
 }
+#sponsors > #main > a:nth-child(2) > img {
+  height: 126px !important;
+}
 
 .text-holder {
   width: 60%;
