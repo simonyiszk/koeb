@@ -1,7 +1,7 @@
 [
   {
     "name": "Project Management",
-    "logo": "epitesz_logo.svg",
+    "logo": "pm.svg",
     "leader": {
       "name": "Csúsz István",
       "photo": "csusz_i.jpg"
@@ -97,7 +97,7 @@
   },
   {
     "name": "Mechanical Engineering",
-    "logo": "epitesz_logo.svg",
+    "logo": "mechanical.svg",
     "leader": {
       "name": "Csapó Dániel",
       "photo": "csapo_d.jpg"
@@ -131,7 +131,7 @@
   },
   {
     "name": "Electrical Engineer",
-    "logo": "epitesz_logo.svg",
+    "logo": "electrical.svg",
     "leader": {
       "name": "Tóbiás Csaba",
       "photo": "tobias_cs.jpg"
@@ -153,7 +153,7 @@
   },
   {
     "name": "Structural Engineering",
-    "logo": "epitesz_logo.svg",
+    "logo": "structural.svg",
     "leader": {
       "name": "Bogár Márió",
       "photo": "bogar_m.jpg"
@@ -167,7 +167,7 @@
   },
   {
     "name": "Sustainability & Circularity",
-    "logo": "epitesz_logo.svg",
+    "logo": "bim.svg",
     "leader": {
       "name": "Varga Dávid",
       "photo": "varga_d.jpg"
@@ -195,7 +195,7 @@
   },
   {
     "name": "Communication",
-    "logo": "epitesz_logo.svg",
+    "logo": "brand.svg",
     "leader": {
       "name": "Kosztyó Dominika",
       "photo": "kosztyo_d.jpg"
