@@ -54,7 +54,7 @@
   box-shadow: var(--shadow);
 }
 
-@media (max-width: 700px) {
+@media (max-width: 1100px) {
   #hero > .text-box {
     width: 80%;
     margin: auto;

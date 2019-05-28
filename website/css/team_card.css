@@ -49,3 +49,31 @@
 .division > .top > img {
   max-width: 200px;
 }
+
+@media (max-width: 1200px) {
+  #team_cards > * {
+    flex-direction: column;
+  }
+
+  .card {
+    width: 90%;
+  }
+}
+
+@media (max-width: 600px) {
+  .division > .top > img {
+    max-width: 75px;
+  }
+
+  .division > .top > h2 {
+    font-size: 1.25rem;
+  }
+
+  .member > img {
+    max-width: 70px;
+  }
+
+  .member > h2 {
+    font-size: 1rem;
+  }
+}
