@@ -1,34 +1,50 @@
 #team_cards {
   display: flex;
-  flex-wrap: wrap;
-  max-width: 900px;
+  flex-direction: column;
+  max-width: 1500px;
   justify-content: space-around;
   align-items: center;
   margin: auto;
 }
+
+#team_cards > * {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 90%;
+}
+
 .card {
-  background-color: hotpink;
   border-radius: 30px !important;
   border: none !important;
   box-shadow: var(--shadow);
-  padding: 1.5rem;
-  max-width: 400px;
-  margin: 1rem;
+  padding: 1.5rem 0;
+  margin: 1rem 0;
+  width: 40%;
 }
 
 .card > *:not(:last-child) {
   margin-bottom: 20px;
 }
 
-.card > .upper,
-.card > .lower {
+.division > .top,
+.member {
   display: flex;
-  justify-content: space-around;
   align-items: center;
+  width: 90%;
+  margin: auto;
 }
 
-.card > .lower > img,
-.card > .upper > img {
-  height: 100px;
-  border-radius: 10000px;
+.member > img {
+  max-width: 120px;
+  border-radius: 1000px;
+}
+
+.member > h2 {
+  font-size: 1.5rem;
+  margin-left: 1rem;
+}
+
+.division > .top > img {
+  max-width: 200px;
 }
