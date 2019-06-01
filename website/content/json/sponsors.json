@@ -101,6 +101,61 @@
       "src": "hunikdesign.png",
       "link": "http://hunikdesign.com/",
       "name": "logo"
+    },
+    {
+      "src": "GU.png",
+      "link": "https://www2.g-u.com/HU/hu/nyitolap.html",
+      "name": "logo"
+    },
+    {
+      "src": "Remmers_Logo_2016.png",
+      "link": "http://hu.remmers.com/",
+      "name": "logo"
+    },
+    {
+      "src": "nemethfa-fb.jpg",
+      "link": "http://nemeth-fa.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "HolzTeam.jpg",
+      "link": "http://www.holzteam.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "nagy-geza-logo.png",
+      "link": "http://www.nagygeza.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "fakro_cmyk.jpg",
+      "link": "http://www.fakro.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "Zalakeramia.jpg",
+      "link": "http://www.zalakeramia.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "logo-dorken.png",
+      "link": "http://www.doerken.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "KAN-Therm.png",
+      "link": "http://hu.kan-therm.com/",
+      "name": "logo"
+    },
+    {
+      "src": "Herz.png",
+      "link": "http://www.herz-hu.com/",
+      "name": "logo"
+    },
+    {
+      "src": "Merkapt.png",
+      "link": "http://www.merkapt.hu/",
+      "name": "logo"
     }
   ]
 }
