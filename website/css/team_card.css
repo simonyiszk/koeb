@@ -36,8 +36,16 @@
   margin: auto;
 }
 
+.division > .member {
+  justify-content: flex-start;
+}
+
+.member > h2 {
+  margin-left: 25px;
+}
+
 .member > img {
-  max-width: 120px;
+  max-width: 100px;
   border-radius: 1000px;
 }
 

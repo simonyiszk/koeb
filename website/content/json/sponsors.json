@@ -156,6 +156,31 @@
       "src": "Merkapt.png",
       "link": "http://www.merkapt.hu/",
       "name": "logo"
+    },
+    {
+      "src": "Airvent logo finish 2017.png",
+      "link": "http://www.airvent.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "Duoplan.png",
+      "link": "http://duoplan.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "PERI-logo.png",
+      "link": "https://www.peri.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "hd-rotatech_logo.jpg",
+      "link": "http://www.hd-rotatech.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "hilti.png",
+      "link": "https://www.hilti.hu/",
+      "name": "logo"
     }
   ]
 }

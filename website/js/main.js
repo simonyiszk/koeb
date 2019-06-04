@@ -1,3 +1,11 @@
+const resizeNavbar = () => {
+  const navbar = document.getElementById("navbar");
+  const placeholder = document.getElementById("navbar-placeholder");
+
+  placeholder.style.width = navbar.clientWidth + "px";
+  placeholder.style.height = navbar.clientHeight + "px";
+};
+
 const init = async () => {
   const loader = new Loader("");
   const dict = new Dictionary(
@@ -22,6 +30,9 @@ const init = async () => {
   const navBarHandler = new NavBarHandler("navbar");
   document.getElementById("hero_learnMore").onclick = () =>
     navBarHandler.scrollDown();
+
+  resizeNavbar();
+  window.onresize = resizeNavbar;
 
   document.getElementById("hu").onclick = () => dict.changeLanguage("hu");
 

@@ -198,6 +198,25 @@ button:focus {
   font-size: 1.1rem;
 }
 
+/*
+*::-webkit-scrollbar-track {
+  background-color: #d34649;
+}
+
+*::-webkit-scrollbar {
+  width: 9px;
+  background-color: #d34649;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: white;
+  border-radius: 1000px;
+}*/
+
+a > li {
+  color: #444;
+}
+
 @media (max-width: 700px) {
   body {
     width: 100%;
