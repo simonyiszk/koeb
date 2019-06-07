@@ -23,7 +23,7 @@ class SponsorHandler {
 
   _createLogoString({ src, name, link }, classText) {
     if (!link) link = "";
-    return `<a href="${link}" class="logo ${classText}">
+    return `<a href="${link}" class="logo ${classText}" target="_BLANK">
                   <img src="${this._srcRoot + src}" alt="${name}" />
                 </a>`;
   }

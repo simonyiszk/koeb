@@ -113,13 +113,18 @@
       "name": "logo"
     },
     {
+      "src": "HolzTeam.jpg",
+      "link": "http://www.holzteam.hu/",
+      "name": "logo"
+    },
+    {
       "src": "nemethfa-fb.jpg",
       "link": "http://nemeth-fa.hu/",
       "name": "logo"
     },
     {
-      "src": "HolzTeam.jpg",
-      "link": "http://www.holzteam.hu/",
+      "src": "rabaablak.png",
+      "link": "http://www.rabaablak.hu/",
       "name": "logo"
     },
     {
@@ -180,6 +185,11 @@
     {
       "src": "hilti.png",
       "link": "https://www.hilti.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "wago.png",
+      "link": "https://www.wago.com/hu/",
       "name": "logo"
     }
   ]
