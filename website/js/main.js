@@ -27,9 +27,7 @@ const init = async () => {
     otherHolderId: "other"
   });
 
-  const navBarHandler = new NavBarHandler("navbar");
-  document.getElementById("hero_learnMore").onclick = () =>
-    navBarHandler.scrollDown();
+  new NavBarHandler("navbar");
 
   resizeNavbar();
   window.onresize = resizeNavbar;

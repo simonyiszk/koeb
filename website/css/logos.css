@@ -38,12 +38,22 @@
   cursor: pointer;
 }
 
+@media (max-width: 1100px) {
+  #must-have-logos > img {
+    height: 25px;
+  }
+}
+
 @media (max-width: 700px) {
   #must-have-logos {
     flex-direction: column;
     align-items: center;
   }
   #must-have-logos > img {
-    max-width: 100px;
+    height: 40px;
+    margin-bottom: 20px;
+  }
+  #must-have-logos > img:last-of-type {
+    margin: 0;
   }
 }

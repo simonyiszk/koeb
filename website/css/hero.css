@@ -30,7 +30,7 @@
   font-size: 3.5rem;
 }
 
-#hero > .text-box > .content > button {
+#hero > .text-box > .content > a > button {
   background-color: white;
   color: #d54345;
   border-radius: 5px;
