@@ -216,6 +216,31 @@
       "src": "mapei.png",
       "link": "https://www.mapei.com/hu/hu/kezdolap",
       "name": "logo"
+    },
+    {
+      "src": "keritesrendszerek.jpg",
+      "link": "https://keritesrendszerek.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "mapol.jpg",
+      "link": "http://www.mapol.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "Miskolczy.jpg",
+      "link": "https://www.energiaterv.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "odoo.jpg",
+      "link": "http://odooproject.com/hu/",
+      "name": "logo"
+    },
+    {
+      "src": "műgép.png",
+      "link": "http://mugep.hu/",
+      "name": "logo"
     }
   ]
 }
