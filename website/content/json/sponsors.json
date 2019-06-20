@@ -191,6 +191,31 @@
       "src": "wago.png",
       "link": "https://www.wago.com/hu/",
       "name": "logo"
+    },
+    {
+      "src": "kozma.png",
+      "link": "http://kozmakft.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "hegesztok.png",
+      "link": "http://hegesztes.ktk.bme.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "hazai_korszeru.jpg",
+      "link": "http://hkeka.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "limes.png",
+      "link": "http://limesmodel.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "mapei.png",
+      "link": "https://www.mapei.com/hu/hu/kezdolap",
+      "name": "logo"
     }
   ]
 }
