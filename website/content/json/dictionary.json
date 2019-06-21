@@ -186,6 +186,14 @@
     "hu": "Belsőépítészet",
     "en": "Interior Design"
   },
+  "sponsors_email": {
+    "hu": "Szponzorok",
+    "en": "Sponsors"
+  },
+  "communications": {
+    "hu": "Kommunikáció",
+    "en": "Communications"
+  },
   "team_card3-text": {
     "hu": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar.",
     "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere justo ipsum, et consequat massa volutpat vitae. Praesent lobortis maximus nulla, vitae placerat dolor rutrum nec. Integer eu cursus magna. Nulla mauris justo, pulvinar eleifend commodo vitae, ultrices eget justo. Etiam faucibus diam porta ipsum sodales pulvinar."

@@ -198,6 +198,16 @@ button:focus {
   font-size: 1.1rem;
 }
 
+#sponsors_email,
+#communications {
+  font-size: 1.2rem;
+  color: #555;
+}
+
+#communications {
+  margin-top: 2rem;
+}
+
 /*
 *::-webkit-scrollbar-track {
   background-color: #d34649;
