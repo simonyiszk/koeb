@@ -123,7 +123,7 @@
       "name": "logo"
     },
     {
-      "src": "rabaablak.png",
+      "src": "újrába.png",
       "link": "http://www.rabaablak.hu/",
       "name": "logo"
     },
@@ -240,6 +240,26 @@
     {
       "src": "műgép.png",
       "link": "http://mugep.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "biokay.png",
+      "link": "https://biobaushop.hu/?utm_source=google&utm_medium=cpc&gclid=CjwKCAjwsIbpBRBNEiwAZF8-zzrg2mtB8zPkO7UdHY9tU8khHF_SZXr_swPhHaHF80IOhbWC23oPehoCLTAQAvD_BwE",
+      "name": "logo"
+    },
+    {
+      "src": "hszo.png",
+      "link": "http://hegesztes.ktk.bme.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "grabarics.png",
+      "link": "https://www.grabarics.hu/",
+      "name": "logo"
+    },
+    {
+      "src": "diadém.png",
+      "link": "https://www.zoldteto.hu/",
       "name": "logo"
     }
   ]
