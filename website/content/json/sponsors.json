@@ -123,12 +123,12 @@
       "name": "logo"
     },
     {
-      "src": "újrába.png",
+      "src": "ujraba.jpg",
       "link": "http://www.rabaablak.hu/",
       "name": "logo"
     },
     {
-      "src": "nagy-geza-logo.png",
+      "src": "némethfa.jpg",
       "link": "http://www.nagygeza.hu/",
       "name": "logo"
     },
@@ -195,11 +195,6 @@
     {
       "src": "kozma.png",
       "link": "http://kozmakft.hu/",
-      "name": "logo"
-    },
-    {
-      "src": "hegesztok.png",
-      "link": "http://hegesztes.ktk.bme.hu/",
       "name": "logo"
     },
     {
